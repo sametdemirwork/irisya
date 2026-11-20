@@ -1,0 +1,269 @@
+{
+ "story-1": {
+  "id": "cfea0f57-c35e-47ba-84ed-3d0c0bb88da3",
+  "created": "2026-11-15 02:55:02 UTC",
+  "file": "hf_20261115_025502_cfea0f57-c35e-47ba-84ed-3d0c0bb88da3.png"
+ },
+ "story-2": {
+  "id": "2f9207a5-7790-4ff3-b60a-6fa91cd8bab0",
+  "created": "2026-11-15 02:55:03 UTC",
+  "file": "hf_20261115_025503_2f9207a5-7790-4ff3-b60a-6fa91cd8bab0.png"
+ },
+ "story-3": {
+  "id": "2ff9c018-5784-4e4f-8abf-ccd98b2015a0",
+  "created": "2026-11-15 02:55:02 UTC",
+  "file": "hf_20261115_025502_2ff9c018-5784-4e4f-8abf-ccd98b2015a0.png"
+ },
+ "story-4": {
+  "id": "53fa35c9-db0a-4ff3-bd7d-303477ae21d5",
+  "created": "2026-11-15 02:55:28 UTC",
+  "file": "hf_20261115_025528_53fa35c9-db0a-4ff3-bd7d-303477ae21d5.png"
+ },
+ "story-5": {
+  "id": "7eff55f9-ba1d-43fd-a539-a1ec7de3a9db",
+  "created": "2026-11-15 02:55:28 UTC",
+  "file": "hf_20261115_025528_7eff55f9-ba1d-43fd-a539-a1ec7de3a9db.png"
+ },
+ "moment-1": {
+  "id": "79dbc008-e638-4259-aa2a-a7464c101cd6",
+  "created": "2026-11-15 03:00:47 UTC",
+  "file": "hf_20261115_030047_79dbc008-e638-4259-aa2a-a7464c101cd6.png",
+  "note": "retake: Galata Tower"
+ },
+ "moment-2": {
+  "id": "120c23ff-9e6a-4639-b855-cd58f4baec14",
+  "created": "2026-11-15 03:02:14 UTC",
+  "file": "hf_20261115_030214_120c23ff-9e6a-4639-b855-cd58f4baec14.png",
+  "note": "second retake: honey-blonde, Blue Mosque"
+ },
+ "moment-3": {
+  "id": "2eb170dd-a20d-4b9a-9834-15183510acef",
+  "created": "2026-11-15 02:55:03 UTC",
+  "file": "hf_20261115_025503_2eb170dd-a20d-4b9a-9834-15183510acef.png"
+ },
+ "moment-4": {
+  "id": "3bddde46-40cb-4ac2-84fc-168ad1e74a6b",
+  "created": "2026-11-15 02:55:28 UTC",
+  "file": "hf_20261115_025528_3bddde46-40cb-4ac2-84fc-168ad1e74a6b.png"
+ },
+ "moment-5": {
+  "id": "fe47fe1b-166d-448d-8ab8-cf6ea5e23d40",
+  "created": "2026-11-15 02:55:29 UTC",
+  "file": "hf_20261115_025529_fe47fe1b-166d-448d-8ab8-cf6ea5e23d40.png"
+ },
+ "quote-1": {
+  "id": "bc50e527-d224-43a0-9b7b-4f7047292a84",
+  "created": "2026-11-15 21:00:45 UTC",
+  "file": "hf_20261115_210045_bc50e527-d224-43a0-9b7b-4f7047292a84.png"
+ },
+ "quote-2": {
+  "id": "4b133366-21a6-492f-98af-336b799e2b4a",
+  "created": "2026-11-15 21:02:18 UTC",
+  "file": "hf_20261115_210218_4b133366-21a6-492f-98af-336b799e2b4a.png",
+  "note": "quote-2a/2b retake"
+ },
+ "quote-3": {
+  "id": "12314630-6aaf-4958-8806-7a72229dc268",
+  "created": "2026-11-15 21:03:12 UTC",
+  "file": "hf_20261115_210312_12314630-6aaf-4958-8806-7a72229dc268.png",
+  "note": "quote-3c/3d retake"
+ },
+ "quote-4": {
+  "id": "c4d82b62-a092-42a0-ab06-b90901bf2c7b",
+  "created": "2026-11-15 21:00:44 UTC",
+  "file": "hf_20261115_210044_c4d82b62-a092-42a0-ab06-b90901bf2c7b.png"
+ },
+ "quote-5": {
+  "id": "7244c954-ff67-44e0-8e57-6409fa921f54",
+  "created": "2026-11-15 21:03:13 UTC",
+  "file": "hf_20261115_210313_7244c954-ff67-44e0-8e57-6409fa921f54.png",
+  "note": "quote-5c/5d retake"
+ },
+ "quote-6": {
+  "id": "46390e76-095a-4fb8-a7fb-e6976a63e6a3",
+  "created": "2026-11-15 21:02:20 UTC",
+  "file": "hf_20261115_210220_46390e76-095a-4fb8-a7fb-e6976a63e6a3.png",
+  "note": "quote-6a/6b retake"
+ },
+ "quote-7": {
+  "id": "45cb4720-134e-476e-9deb-681a2041fa02",
+  "created": "2026-11-15 21:00:45 UTC",
+  "file": "hf_20261115_210045_45cb4720-134e-476e-9deb-681a2041fa02.png"
+ },
+ "quote-8": {
+  "id": "0301b067-4052-4489-9bc7-196ecf498979",
+  "created": "2026-11-15 21:00:44 UTC",
+  "file": "hf_20261115_210044_0301b067-4052-4489-9bc7-196ecf498979.png"
+ },
+ "quote-9": {
+  "id": "1e7b6d5a-f76a-4700-aae2-d42bccd74da3",
+  "created": "2026-11-15 21:00:44 UTC",
+  "file": "hf_20261115_210044_1e7b6d5a-f76a-4700-aae2-d42bccd74da3.png"
+ },
+ "why-shade-b": {
+  "id": "22f0cb9c-a867-4974-8d55-c98d89beb098",
+  "created": "2026-11-15 17:20:38 UTC",
+  "file": "hf_20261115_172038_22f0cb9c-a867-4974-8d55-c98d89beb098.png",
+  "note": "why.webp source (why-shade-c, a GPT Image edit, is not in the Higgsfield history)"
+ },
+ "journey-1": {
+  "id": "deec681c-f4d0-4ac2-b4f2-aec74cee78dd",
+  "created": "2026-11-15 03:02:13 UTC",
+  "file": "hf_20261115_030213_deec681c-f4d0-4ac2-b4f2-aec74cee78dd.png",
+  "note": "retake: side view, no graphic panels"
+ },
+ "journey-2": {
+  "id": "5dbc238c-8a96-4c45-a87e-ae843d83f5dc",
+  "created": "2026-11-15 02:56:45 UTC",
+  "file": "hf_20261115_025645_5dbc238c-8a96-4c45-a87e-ae843d83f5dc.png"
+ },
+ "journey-3": {
+  "id": "01a6a0d2-31b4-4d32-9abb-9242391160d5",
+  "created": "2026-11-15 02:53:22 UTC",
+  "file": "hf_20261115_025322_01a6a0d2-31b4-4d32-9abb-9242391160d5.png"
+ },
+ "journey-4": {
+  "id": "84716ae6-5d98-4891-82ce-eb23c593071f",
+  "created": "2026-11-15 02:56:48 UTC",
+  "file": "hf_20261115_025648_84716ae6-5d98-4891-82ce-eb23c593071f.png"
+ },
+ "journey-5": {
+  "id": "59a8c39d-9b36-47cc-ad6d-bc68c238435e",
+  "created": "2026-11-15 02:56:48 UTC",
+  "file": "hf_20261115_025648_59a8c39d-9b36-47cc-ad6d-bc68c238435e.png"
+ },
+ "riders": {
+  "id": "901fbb5e-e0a9-4d26-9723-ec4bc5aaae81",
+  "created": "2026-11-15 02:56:50 UTC",
+  "file": "hf_20261115_025650_901fbb5e-e0a9-4d26-9723-ec4bc5aaae81.png"
+ },
+ "footer": {
+  "id": "d003c298-5e16-4677-bd52-efe84d3ce285",
+  "created": "2026-11-15 02:56:57 UTC",
+  "file": "hf_20261115_025657_d003c298-5e16-4677-bd52-efe84d3ce285.png"
+ },
+ "footer-portrait": {
+  "id": "1e236e73-799e-4a32-9875-699103487f2c",
+  "created": "2026-11-15 02:57:01 UTC",
+  "file": "hf_20261115_025701_1e236e73-799e-4a32-9875-699103487f2c.png"
+ },
+ "clinic": {
+  "id": "733d7c41-0bb2-46ef-a5e5-a81c9e0e5a69",
+  "created": "2026-11-15 02:57:04 UTC",
+  "file": "hf_20261115_025704_733d7c41-0bb2-46ef-a5e5-a81c9e0e5a69.png"
+ },
+ "package-hotel": {
+  "id": "b83a04ad-40d8-4e8d-8586-f9322d7a385e",
+  "created": "2026-11-15 02:57:12 UTC",
+  "file": "hf_20261115_025712_b83a04ad-40d8-4e8d-8586-f9322d7a385e.png",
+  "note": "hero stand-in: hotel"
+ },
+ "package-transfer": {
+  "id": "f0e68440-47fc-443c-b61c-de3f9621728b",
+  "created": "2026-11-15 02:57:13 UTC",
+  "file": "hf_20261115_025713_f0e68440-47fc-443c-b61c-de3f9621728b.png",
+  "note": "hero stand-in: transfer"
+ },
+ "tx-1": {
+  "id": "a3f66c28-12e4-4909-8b02-fffa8d748bcc",
+  "created": "2026-11-15 02:57:27 UTC",
+  "file": "hf_20261115_025727_a3f66c28-12e4-4909-8b02-fffa8d748bcc.png"
+ },
+ "tx-2": {
+  "id": "cfd0c911-e4a3-44e1-99b1-0186a0251258",
+  "created": "2026-11-15 02:57:35 UTC",
+  "file": "hf_20261115_025735_cfd0c911-e4a3-44e1-99b1-0186a0251258.png"
+ },
+ "tx-3": {
+  "id": "0d29f5ec-e15d-41c0-bff3-76f476b1b7ca",
+  "created": "2026-11-15 02:57:36 UTC",
+  "file": "hf_20261115_025736_0d29f5ec-e15d-41c0-bff3-76f476b1b7ca.png"
+ },
+ "tx-4": {
+  "id": "7750ad88-1d14-4af7-8e25-0ad80d23d82e",
+  "created": "2026-11-15 02:53:23 UTC",
+  "file": "hf_20261115_025323_7750ad88-1d14-4af7-8e25-0ad80d23d82e.png"
+ },
+ "shade-1": {
+  "id": "706447d3-3d0c-48d5-849b-85e7ef12b781",
+  "created": "2026-11-15 02:57:55 UTC",
+  "file": "hf_20261115_025755_706447d3-3d0c-48d5-849b-85e7ef12b781.png"
+ },
+ "shade-1-detail": {
+  "id": "eddcaf15-7da2-48fe-a921-47161d225ffe",
+  "created": "2026-11-15 02:57:59 UTC",
+  "file": "hf_20261115_025759_eddcaf15-7da2-48fe-a921-47161d225ffe.png"
+ },
+ "shade-2": {
+  "id": "37ea8587-79f0-4b57-8d70-cfa491e12a24",
+  "created": "2026-11-15 02:53:23 UTC",
+  "file": "hf_20261115_025323_37ea8587-79f0-4b57-8d70-cfa491e12a24.png"
+ },
+ "shade-2-detail": {
+  "id": "c057fa4b-0fe5-4711-862a-c6e54d829924",
+  "created": "2026-11-15 02:53:39 UTC",
+  "file": "hf_20261115_025339_c057fa4b-0fe5-4711-862a-c6e54d829924.png"
+ },
+ "shade-3": {
+  "id": "29710d46-dd5b-46f6-96a1-794c173b7c83",
+  "created": "2026-11-15 03:01:13 UTC",
+  "file": "hf_20261115_030113_29710d46-dd5b-46f6-96a1-794c173b7c83.png",
+  "note": "retake: deep sapphire"
+ },
+ "shade-3-detail": {
+  "id": "4396cf65-c457-4836-bc65-afddfae3a352",
+  "created": "2026-11-15 03:01:13 UTC",
+  "file": "hf_20261115_030113_4396cf65-c457-4836-bc65-afddfae3a352.png",
+  "note": "retake: deep sapphire"
+ },
+ "shade-4": {
+  "id": "59718f82-2bc1-495a-b41c-dc251127fdda",
+  "created": "2026-11-15 02:58:12 UTC",
+  "file": "hf_20261115_025812_59718f82-2bc1-495a-b41c-dc251127fdda.png"
+ },
+ "shade-4-detail": {
+  "id": "29d18d07-3898-43a7-b076-138281e95fd4",
+  "created": "2026-11-15 02:58:14 UTC",
+  "file": "hf_20261115_025814_29d18d07-3898-43a7-b076-138281e95fd4.png"
+ },
+ "shade-5": {
+  "id": "1b690723-a852-4baa-902f-e175931de550",
+  "created": "2026-11-15 02:58:16 UTC",
+  "file": "hf_20261115_025816_1b690723-a852-4baa-902f-e175931de550.png"
+ },
+ "shade-5-detail": {
+  "id": "579355df-be92-46b6-bef8-31356f926f89",
+  "created": "2026-11-15 02:58:22 UTC",
+  "file": "hf_20261115_025822_579355df-be92-46b6-bef8-31356f926f89.png"
+ },
+ "shade-6": {
+  "id": "149448e2-899a-4404-b20a-914c27cef147",
+  "created": "2026-11-15 02:58:23 UTC",
+  "file": "hf_20261115_025823_149448e2-899a-4404-b20a-914c27cef147.png"
+ },
+ "shade-6-detail": {
+  "id": "e3fe114b-35fa-4d27-ac71-035c18028863",
+  "created": "2026-11-15 02:58:24 UTC",
+  "file": "hf_20261115_025824_e3fe114b-35fa-4d27-ac71-035c18028863.png"
+ },
+ "shade-7": {
+  "id": "ec5c437b-a928-49f3-8e2b-f6af746ca36e",
+  "created": "2026-11-15 02:58:28 UTC",
+  "file": "hf_20261115_025828_ec5c437b-a928-49f3-8e2b-f6af746ca36e.png"
+ },
+ "shade-7-detail": {
+  "id": "c95c2bc9-f107-4105-819f-c3a9edc13e29",
+  "created": "2026-11-15 02:58:31 UTC",
+  "file": "hf_20261115_025831_c95c2bc9-f107-4105-819f-c3a9edc13e29.png"
+ },
+ "shade-8": {
+  "id": "dc7b5653-4651-4e8e-923d-b04b0a32f297",
+  "created": "2026-11-15 02:58:32 UTC",
+  "file": "hf_20261115_025832_dc7b5653-4651-4e8e-923d-b04b0a32f297.png"
+ },
+ "shade-8-detail": {
+  "id": "7333e666-3562-4e63-9152-5ea76ff5e34a",
+  "created": "2026-11-15 02:58:39 UTC",
+  "file": "hf_20261115_025839_7333e666-3562-4e63-9152-5ea76ff5e34a.png"
+ }
+}

@@ -25,12 +25,14 @@ for i in range(1, 10):
 S["team-1"] = ("team-1", 400, 400, .5, .38, 1.35)
 S["team-2"] = ("team-2", 400, 400, .5, .38, 1.35)
 S["team-3"] = ("team-3", 400, 400, .55, .4, 1.35)
-S["why"] = ("why-shade-c", 1500, 2000, .5, .5, 1)  # black and white, colour kept in the eyes and the shade disc
-# ellipses (x, y, rx, ry) in the raw why-shade-c.png: "keep" stay in colour (her two irises and the IR-07 Hazel disc),
-# "drop" are cut back out (the clinician's thumb tip over the disc's edge)
+S["why"] = ("why-shade-b", 1500, 2000, .5, .5, 1)  # black and white, colour kept in the eyes and the shade disc
+# ellipses (x, y, rx, ry) in the raw why-shade-b.png: "keep" stay in colour (her two irises and the IR-07 Hazel disc),
+# "drop" are cut back out (the clinician's fingertip at the disc's right edge).
+# The site first used why-shade-c (a GPT Image 2.6 render, keep (859, 657) (566, 710) disc (1077, 757, 82), drop (1185, 757));
+# that file was lost on 2026-11-20 and is not in the Higgsfield history, so the same prompt's Soul Cinematic take stands in.
 COLOUR_SPOTS = {"why": {
-    "keep": [(859, 657, 28, 28), (566, 710, 28, 28), (1077, 757, 82, 82)],
-    "drop": [(1185, 757, 41, 36)],
+    "keep": [(395, 1020, 26, 26), (670, 978, 26, 26), (960, 1072, 56, 53)],
+    "drop": [(1042, 1062, 30, 42)],
 }}
 for i in range(1, 6):
     S[f"journey-{i}"] = (f"journey-{i}", 1680, 840, .5, .5, 1)

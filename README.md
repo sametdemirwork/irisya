@@ -23,7 +23,10 @@ python -m http.server 5510
 
 Then open http://localhost:5510. On Windows you can double-click `siteyi-ac.bat`.
 
-## Missing media
+## Media
 
-The project was restored from session history on 2026-11-20 and its images and videos are not in the repository yet.
-`KURTARMA-NOTU.md` lists every missing file under `irisya-clinic/assets/img/`. Until they are added, photo areas render empty.
+The project was restored from session history on 2026-11-20. Its photos were then rebuilt from the original
+Higgsfield generations (`irisya-tools/hf/sources.json`, `fetch.py`), and the edits and the hero film that the
+Higgsfield history no longer lists were redone locally (`irisya-tools/hf/recolour.py`, `hero-film/irisya/stills.py`).
+`KURTARMA-NOTU.md` has the details. Still missing: the logo files under `irisya-clinic/assets/img/brand/`, which come
+from the supplied logo artwork via `irisya-tools/brand.py`.

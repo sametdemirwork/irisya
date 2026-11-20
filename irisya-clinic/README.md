@@ -9,7 +9,7 @@ index.html               → tüm sayfa
 assets/css/style.css     → stiller (renkler ve yazı ölçüleri en üstte)
 assets/js/main.js        → etkileşimler (en üstte WhatsApp numarası)
 assets/img/brand/        → logo dosyaları
-assets/img/content/      → sitede kullanılan fotoğraflar ve hero filmi (64 dosya, ~21 MB; ~18 MB'ı video,
+assets/img/content/      → sitede kullanılan fotoğraflar ve hero filmi (74 dosya, ~17 MB; ~14 MB'ı video,
                            ziyaretçi bunlardan yalnızca ekranına uyan tek dosyayı indirir)
 ```
 
@@ -84,7 +84,7 @@ Her görsel alanı `assets/img/content/` içindeki bir dosyayı bekler. Dosya yo
 | `footer.webp` / `footer-portrait.webp` | 2400×1030 / 900×1125 | Kapanış bölümü arka planı |
 | `clinic.webp` | 600×375 | Footer'daki klinik kartı |
 | `og-image.jpg` | 1200×630 | Sosyal medya paylaşım görseli |
-| `hero.mp4/webm`, `hero-720.*`, `hero-portrait.*` | 1920×1080 / 1280×720 / 608×1080, 16 sn | Hero filmi: geniş ekran, dizüstü/tablet, telefon. Kaynak ve kurgu: `../hero-film/irisya/build.py` |
+| `hero.mp4/webm`, `hero-720.*`, `hero-portrait.*` | 1920×1080 / 1280×720 / 608×1080, 16 sn | Hero filmi: geniş ekran, dizüstü/tablet, telefon. Kaynak ve kurgu: `../hero-film/irisya/build.py`. 20 Kasım 2026'dan beri geçici sürüm: Kling klipleri kayıp olduğu için aynı kurgu Higgsfield fotoğraflarıyla (`stills.py`) kuruldu. |
 | `hero.webp`, `hero-portrait.webp` | 1920×1080 / 608×1080 | Film yüklenene kadar görünen kare (filmin 1. saniyesi) |
 | `hero-still.webp`, `hero-still-portrait.webp` | 1920×1080 / 608×1080 | "Hareketi azalt" açıkken görünen sabit kare |
 

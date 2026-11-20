@@ -1,8 +1,9 @@
 """Before / after eye strips for the Patient stories cards.
 
-story-N.png is the published portrait (after: the patient's shade). story-N-before.png is a GPT Image 2.6 edit of it
-with natural dark-brown irises. GPT returns a slightly different size, so the edit is registered onto the portrait
-around the eyes, and only the irises (where the two images differ in colour) are taken from it: everything else in the
+story-N.png is the published portrait (after: the patient's shade). story-N-before.png is an edit of it with natural
+dark-brown irises: first GPT Image 2.6 edits, since 2026-11-20 recolour.py. GPT returned a slightly different size, so
+such an edit is registered onto the portrait around the eyes and only the irises (where the two images differ in colour)
+are taken from it; recolour.py edits in place and saves the exact iris mask, which is used as is. Everything else in the
 "before" strip is the very same pixels as the "after" strip, so the slider only moves the eye colour.
 
 Both strips follow the site rule (people in black and white, colour only in the eyes).
@@ -28,8 +29,10 @@ EYES = {
     5: ((522, 590), (790, 575)),
 }
 W, H = 1120, 400  # strip size (shown at up to 560x200)
-# (brightness, saturation) applied to the edited brown irises where GPT came back too light or too orange
-BEFORE_TONE = {1: (.62, .8), 5: (.7, .72)}
+# (brightness, saturation) applied to the edited brown irises where the edit came back too light or too orange.
+# The GPT Image edits needed {1: (.62, .8), 5: (.7, .72)}; recolour.py, which replaced them on 2026-11-20, sets the
+# brown directly, so nothing is corrected here any more.
+BEFORE_TONE = {}
 
 
 def grey(a):
@@ -86,6 +89,17 @@ def iris_mask(A, Bw, eyes, r):
     return m
 
 
+def edit_and_mask(A, B, name, box, eyes, r):
+    """The edit aligned to the portrait, and the pixels it changed.
+    recolour.py edits in place and saves the exact mask (raw/<name>-mask.png); a generated edit (GPT Image) is
+    registered first and its mask is read from the colour differences."""
+    mp = RAW / f"{name}-mask.png"
+    if mp.exists():
+        return B, Image.open(mp).convert("L")
+    Bw = register(A, B, box)
+    return Bw, iris_mask(A, Bw, eyes, r)
+
+
 def bw_with_colour(im, mask):
     g = ImageEnhance.Contrast(ImageOps.grayscale(im)).enhance(1.08).convert("RGB")
     return Image.composite(im, g, mask)
@@ -108,9 +122,8 @@ def build(i, sheet=None):
     span = eyes[1][0] - eyes[0][0]
     box = (eyes[0][0] - span // 2, min(e[1] for e in eyes) - span // 3, eyes[1][0] + span // 2, max(e[1] for e in eyes) + span // 3)
     print(f"story-{i}")
-    Bw = register(A, B, box)
     r = span * .12
-    m = iris_mask(A, Bw, eyes, r)
+    Bw, m = edit_and_mask(A, B, f"story-{i}-before", box, eyes, r)
     # refine the eye centres from the mask, so the strip is centred on the real irises
     ma = np.asarray(m, np.float32)
     yy, xx = np.mgrid[0:A.height, 0:A.width]
@@ -126,8 +139,7 @@ def build(i, sheet=None):
     # optional story-N-after.png: an edit that corrects the portrait's eyes to the story's shade
     if (RAW / f"story-{i}-after.png").exists():
         C = Image.open(RAW / f"story-{i}-after.png").convert("RGB").resize(A.size, Image.LANCZOS)
-        Cw = register(A, C, box)
-        mc = iris_mask(A, Cw, eyes, r)
+        Cw, mc = edit_and_mask(A, C, f"story-{i}-after", box, eyes, r)
         after = Image.composite(Cw, A, mc)
         keep = Image.fromarray(np.maximum(np.asarray(m), np.asarray(mc)))
     after_s = strip(bw_with_colour(after, keep), cs)
