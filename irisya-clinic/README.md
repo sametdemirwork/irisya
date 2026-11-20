@@ -2,7 +2,7 @@
 
 İstanbul'da göz rengi değiştirme (lazer keratopigmentasyon) yapan İrisya Clinic için tek sayfalık site. Site dili İngilizce; hedef pazarlar Avrupa, Körfez, ABD/Kanada ve Romanya.
 
-Önizleme: `.claude/launch.json` → **irisya-site** (port 5510) veya **irisya-site-alt** (port 5520). Build adımı yoktur; `irisya-clinic/` klasörünü olduğu gibi herhangi bir statik hostinge yükleyebilirsiniz.
+Önizleme: `.claude/launch.json` → **irisya-site** (port 5510). Build adımı yoktur; `irisya-clinic/` klasörünü olduğu gibi herhangi bir statik hostinge yükleyebilirsiniz.
 
 ```
 index.html               → tüm sayfa
@@ -15,7 +15,7 @@ assets/img/content/      → sitede kullanılan fotoğraflar ve hero filmi (74 d
 
 ## 2026-11-16 rötuşu: kalan yapay zekâ izleri
 
-Genel tasarım (renkler, sayfa akışı, bölümler) aynı kaldı; görsel ve videolara dokunulmadı. Önceki hâl `../backups/2026-11-16_ai-rotus-oncesi/` içinde.
+Genel tasarım (renkler, sayfa akışı, bölümler) aynı kaldı; görsel ve videolara dokunulmadı. Önceki hâl git geçmişinde (`0fc5d22` commit'inde `backups/2026-11-16_ai-rotus-oncesi/`).
 
 - **Yazı:** başlık üstü etiketler artık Space Mono değil, Figtree 700 / 14 px / geniş harf aralığı. Space Mono yalnızca gerçekte de tek aralıklı olacak yerlerde: kalkış panosu, biniş kartı, film zaman kodu. Gövde metinlerindeki eksi harf aralığı kaldırıldı, başlıklarda hafifletildi; paragraflarda ve başlıklarda tek kelime kalan satırlar önlendi; düz kesme işaretleri tipografik ’ oldu.
 - **Renk ve gölge:** arka plandaki bulanık renk lekeleri (Why, paket kartı, bento, hikâye sahnesi) düz zemin oldu; mavi "parıltı" gölgeleri nötr gölgeye çevrildi; ufuk geçişindeki ışık halesi yumuşatıldı; gövde metni grisi lacivert tonlu yapıldı.
@@ -25,7 +25,7 @@ Genel tasarım (renkler, sayfa akışı, bölümler) aynı kaldı; görsel ve vi
 
 ## 2026-11-15 yenilemesi: neler değişti
 
-Site, Pitch tarzı tasarım sistemine göre baştan yazıldı ve "yapay zekâ yapmış" izlenimi veren her şey temizlendi. Önceki sürümün tamamı `../backups/2026-11-15_pitch-yenileme-oncesi/` içinde.
+Site, Pitch tarzı tasarım sistemine göre baştan yazıldı ve "yapay zekâ yapmış" izlenimi veren her şey temizlendi. Önceki sürümün tamamı git geçmişinde (`0fc5d22` commit'inde `backups/2026-11-15_pitch-yenileme-oncesi/`).
 
 **Tasarım dili**
 - Yazı: yalnızca **Figtree** 400 / 700 / 800 ve **Space Mono** (2026-11-16 rötuşundan beri yalnızca pano, biniş kartı ve film zaman kodunda). Arada kalan 500/600 ağırlıkları ve her köşeye serpiştirilmiş mono etiketler kaldırıldı.
@@ -43,7 +43,7 @@ Site, Pitch tarzı tasarım sistemine göre baştan yazıldı ve "yapay zekâ ya
 - Yorum kartlarındaki 5 yıldız sıraları ve 9 yapay zekâ yüz avatarı kaldırıldı. Aynı alıntının iki yerde geçmesi ve aynı kişinin iki farklı tedaviyle anılması düzeltildi.
 - Kodda Vors Dental'dan kalan sınıf ve yorumlar ("smile", "implant", "X-ray", "riders", `--purple` = mavi gibi yanıltıcı değişken adları) temizlendi; CSS sıfırdan, okunur şekilde yazıldı (2050 → ~1100 satır).
 - Sosyal medya görseli (`og-image.jpg`) eski slogan ve parlak göz yerine yeni başlık, logo ve sekiz çizilmiş irisle yeniden üretildi.
-- Kullanılmayan 99 dosya (yüz avatarları, ekip fotoğrafları, eski kompozitler vb.) **silinmedi**, `../backups/2026-11-15_pitch-yenileme-oncesi/kullanilmayan-gorseller/` klasörüne taşındı. Hero filminin dosyaları da oradaydı; siteye geri **kopyalandılar**, yedekteki kopyalar duruyor.
+- Kullanılmayan 99 dosya (yüz avatarları, ekip fotoğrafları, eski kompozitler vb.) siteden kaldırıldı.
 
 **Düzeltilen hatalar**
 - Örnek gezilerde gece/gün tutarsızlığı (4 gece yazıp 4 günlük plan gösteriyordu).

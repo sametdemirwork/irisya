@@ -17,11 +17,13 @@ her yazma ve düzenleme adımı ile Bash üzerinden yapılan sed/Python değişi
   15 Kasım 21:45'teki (UTC) tam okumalarla birebir eşleştirildi. Sonraki tüm değişiklikler hatasız uygulandı
   ve kayıtlardaki son komut çıktılarıyla karşılaştırıldı (style.css 1188 satır, `?v=15` / `?v=10`, 35 tipografik ’ vb.).
   Bu dört dosya, silinmeden önceki son hâliyle aynı olmalı.
-- `irisya-tools/*.py`, `irisya.css`, `hero-film/irisya/build.py`, `prompts.md`: Claude'un dosya geçmişindeki tam kopyalarla eşleşti.
-- Daha az kesin olanlar: `irisya-tools/hf/jobs.json` ve `irisya-responsive.css` yalnızca komutların yeniden
-  çalıştırılmasıyla oluştu. Bunlar tam bir okumayla doğrulanamadı.
-- 21 Kasım 2026: `backups/`, `vors-dental-clinic/` (referans kopya) ve yalnızca ondan beslenen `photos.py` / `restyle.py`
-  gereksiz olduğu için silindi. İhtiyaç olursa git geçmişinde duruyorlar (`0fc5d22` commit'i).
+- `irisya-tools/*.py`, `hero-film/irisya/build.py`, `prompts.md`: Claude'un dosya geçmişindeki tam kopyalarla eşleşti.
+- Daha az kesin olan: `irisya-tools/hf/jobs.json` yalnızca komutların yeniden çalıştırılmasıyla oluştu,
+  tam bir okumayla doğrulanamadı.
+- 21 Kasım 2026: gereksiz olanlar silindi; ihtiyaç olursa git geçmişinde duruyorlar (`0fc5d22` commit'i):
+  `backups/`, `vors-dental-clinic/` (referans kopya), ondan beslenen `photos.py` / `restyle.py`,
+  sitenin artık kullanmadığı çizim araçları `iris.py` / `composites.py`, eski stil parçaları `irisya.css` /
+  `irisya-responsive.css` ve inceleme yardımcısı `hf/sheet.py`.
 
 ## Görseller ve video: Higgsfield'den geri yükleme (20 Kasım 2026)
 
