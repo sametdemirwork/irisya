@@ -9,8 +9,6 @@ Static marketing site for İrisya Clinic (eye colour change in Istanbul), plus t
 | `irisya-clinic/` | The website: `index.html`, `assets/css/style.css`, `assets/js/main.js`. No build step. |
 | `irisya-tools/` | Python scripts that generate and process the site's images (Higgsfield jobs in `hf/`). |
 | `hero-film/irisya/` | Script and prompts for the hero film. |
-| `backups/` | Code snapshots taken before the two redesigns. |
-| `vors-dental-clinic/` | Reference copy of another site used during design. |
 
 ## Run locally
 

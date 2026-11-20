@@ -7,7 +7,7 @@ her yazma ve düzenleme adımı ile Bash üzerinden yapılan sed/Python değişi
 ## Siteyi çalıştırma
 - `siteyi-ac.bat` dosyasına çift tıklayın: site http://localhost:5510 adresinde açılır (Python gerekir, bilgisayarda kurulu).
 - Ya da PowerShell'de: `cd irisya-clinic` ve ardından `python -m http.server 5510`.
-- Claude içinden önizleme ayarı `.claude/launch.json` dosyasında (`irisya-site`, `vors-site`).
+- Claude içinden önizleme ayarı `.claude/launch.json` dosyasında (`irisya-site`).
 - Kod, düzen ve etkileşimler çalışıyor. Fotoğraflar ve hero filmi 20 Kasım'da Higgsfield'den geri yüklendi (aşağıda).
   Yalnızca logo dosyaları hâlâ eksik.
 - `og-image.jpg` eski bir oturumun geçici klasöründen geri alındı.
@@ -18,10 +18,10 @@ her yazma ve düzenleme adımı ile Bash üzerinden yapılan sed/Python değişi
   ve kayıtlardaki son komut çıktılarıyla karşılaştırıldı (style.css 1188 satır, `?v=15` / `?v=10`, 35 tipografik ’ vb.).
   Bu dört dosya, silinmeden önceki son hâliyle aynı olmalı.
 - `irisya-tools/*.py`, `irisya.css`, `hero-film/irisya/build.py`, `prompts.md`: Claude'un dosya geçmişindeki tam kopyalarla eşleşti.
-- Daha az kesin olanlar: `irisya-tools/hf/jobs.json`, `irisya-responsive.css`, `restyle.py` ve
-  `backups/2026-11-15_pitch-yenileme-oncesi/` yalnızca komutların yeniden çalıştırılmasıyla oluştu. Bunlar tam bir okumayla doğrulanamadı.
-- `backups/2026-11-16_ai-rotus-oncesi/`: 21:45'te doğrulanan hâlin 21:51'deki kopyası, güvenilir.
-- `vors-dental-clinic/`: İrisya klasörünün içindeki 14 Kasım tarihli referans kopya (yalnızca 3 kod dosyası).
+- Daha az kesin olanlar: `irisya-tools/hf/jobs.json` ve `irisya-responsive.css` yalnızca komutların yeniden
+  çalıştırılmasıyla oluştu. Bunlar tam bir okumayla doğrulanamadı.
+- 21 Kasım 2026: `backups/`, `vors-dental-clinic/` (referans kopya) ve yalnızca ondan beslenen `photos.py` / `restyle.py`
+  gereksiz olduğu için silindi. İhtiyaç olursa git geçmişinde duruyorlar (`0fc5d22` commit'i).
 
 ## Görseller ve video: Higgsfield'den geri yükleme (20 Kasım 2026)
 

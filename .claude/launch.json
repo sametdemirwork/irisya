@@ -4,14 +4,14 @@
     {
       "name": "irisya-site",
       "runtimeExecutable": "python",
-      "runtimeArgs": ["-m", "http.server", "5510", "--directory", "irisya-clinic"],
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "5510",
+        "--directory",
+        "irisya-clinic"
+      ],
       "port": 5510
-    },
-    {
-      "name": "vors-site",
-      "runtimeExecutable": "python",
-      "runtimeArgs": ["-m", "http.server", "5500", "--directory", "vors-dental-clinic"],
-      "port": 5500
     }
   ]
 }
