@@ -105,3 +105,25 @@ Oturum kayıtlarında görsellerin yalnızca adı geçiyor. Sitenin kullandığ�
 - assets/img/content/tx-4-after.webp
 - assets/img/content/tx-4.webp
 - assets/img/content/why.webp
+
+## Görsel kurtarma (20 Kasım 2026, bulut oturumu)
+Higgsfield hesabının üretim geçmişinde 121 görsel bulundu ve indirildi. Bunlar `irisya-tools/hf/jobs.json` istemleriyle
+eşleştirildi. Eşleşmeler `process.py` ve `ba.py` içindeki göz/iris koordinatlarıyla doğrulandı
+(9 quote ve 5 story portresinde koordinatlar irislere birebir oturuyor). Seçilen kaynaklar `irisya-tools/hf/sources.json`
+dosyasında. `python irisya-tools/hf/fetch_raw.py` bunları `raw/` klasörüne yeniden indirir, ardından `process.py` çalıştırılır.
+
+Geri gelen 51 dosya (`assets/img/content/`):
+story-1…5, moment-1…5, journey-1…5, riders, footer, footer-portrait, clinic, tx-1…4,
+shade-1…8, shade-1…8-detail, shade-preview-1…3, quote-1…9.
+
+Hâlâ eksik olanlar:
+- **brand/** (logo-navy, mark-light, wordmark-white, favicon-32, favicon-192, apple-touch-icon):
+  `brand.py` kaynak logo dosyalarını (`irisya-tools/logo-src/irisya-logo-navy.webp`, `irisya-logo-white.webp`) istiyor.
+  Bunlar kayıp. Logo dosyaları bulunursa `python irisya-tools/brand.py` hepsini yeniden üretir.
+- **hero.webp, hero-portrait.webp, hero-still.webp, hero-still-portrait.webp ve hero / hero-720 / hero-portrait (.mp4 / .webm)**:
+  Higgsfield video geçmişi boş. Kling klipleri (`hero-film/irisya/raw/*.mp4`) bulunamadı.
+- **why.webp**: kaynağı `why-shade-c` (GPT Image 2.6). Bu modelin sonuçları geçmiş listesinde yok.
+- **tx-4-after.webp**: kaynağı `tx-4-after` (GPT Image 2.6 düzenlemesi), geçmişte yok.
+- **story-1…5-before.webp / story-1…5-after.webp** (önce/sonra şeritleri): `ba.py`, GPT ile düzenlenmiş
+  `story-N-before` görsellerini istiyor. Bunlar da geçmişte yok.
+- `og-image.jpg` repoda zaten vardı. Mevcut dosya farklı bir tasarım olduğu için değiştirilmedi.
