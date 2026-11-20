@@ -1,0 +1,85 @@
+/* ==========================================================================
+   İRISYA — brand pieces and eye-colour components
+   Type follows the Pitch system untouched (Figtree 800/700, tight tracking,
+   Space Mono eyebrows); only colours, logo and components are İrisya's own.
+   (sits before the responsive block so the breakpoints below still apply)
+   ========================================================================== */
+
+.btn-lime { box-shadow: inset 0 0 0 1px rgba(2, 30, 68, .12); }
+.btn-lime:hover { background: #BBDCF3; }
+
+/* ---------- Logo (supplied artwork) ---------- */
+.logo { gap: 10px; }
+img.logo-mark { width: auto; height: 32px; }
+.logo-word { display: inline-flex; max-width: 130px; }
+.logo-word img { width: auto; height: 19px; max-width: none; }
+.footer-top .footer-logo { width: auto; height: 74px; }
+.stack-pill { gap: 14px; }
+.stack-pill img { width: auto; height: 42px; }
+.stack-pill .sp-word { height: 24px; }
+
+/* ---------- Hero ---------- */
+.hero { background: var(--night); }
+.hero-title em { font-style: normal; }
+.prompt-go { background: var(--pale); color: var(--deep); }
+.prompt-go.ready { color: #fff; }
+
+/* ---------- Stories ---------- */
+.st-faces img, .spick-tab img, .wcard figcaption img { background: var(--deep); }
+.story-done i { width: 20px; height: 20px; border-radius: 50%; background: radial-gradient(closest-side, #020306 0 32%, var(--c) 38% 100%); box-shadow: 0 0 0 1.5px rgba(2, 30, 68, .15); }
+
+/* ---------- Why: cornea diagram (replaces the implant arch) ---------- */
+.wv-select { left: 24%; top: 30%; width: 52%; height: 9%; }
+.wv-gum { fill: var(--pale); stroke: none; }
+.wv-ring { fill: none; stroke: var(--purple); stroke-width: 26; stroke-dasharray: 8.6 1.4; opacity: 0; transform-box: view-box; transform-origin: 130px 75px; transform: rotate(-70deg); }
+.why-visual.in .wv-ring { animation: ringIn 1.5s var(--ease) .5s forwards; }
+@keyframes ringIn { to { opacity: .92; transform: none; } }
+.wv-clear { fill: #fff; stroke: var(--lilac); stroke-width: 1.5; stroke-dasharray: 3 3; }
+.wv-laser { fill: none; stroke: #fff; stroke-width: 3; stroke-linecap: round; stroke-dasharray: 9 111; opacity: 0; }
+.why-visual.in .wv-laser { opacity: .95; animation: laserSweep 3.2s linear 2s infinite; }
+@keyframes laserSweep { to { stroke-dashoffset: -120; } }
+.wv-n { font-size: 20px; fill: var(--deep); }
+.wv-l { font-size: 6.4px; }
+.lg-imp { background: var(--purple); box-shadow: none; }
+.lg-tooth { background: #fff; box-shadow: 0 0 0 1.5px var(--lilac); }
+.why-doc img { box-shadow: 0 0 0 3px #fff, 0 0 0 5px var(--lilac); }
+
+/* ---------- Journey ---------- */
+.jvisual { background: var(--deep); }
+.jc-smile .jvisual > img { filter: none; object-position: 50% 50%; }
+.jc-smile .jvisual::after { background: linear-gradient(180deg, rgba(2, 30, 68, 0) 55%, rgba(2, 30, 68, .5) 100%); }
+
+/* ---------- Patients worldwide ---------- */
+.ro-lang { display: grid; place-items: center; flex: none; background: var(--deep); color: var(--lime); }
+.ro-lang svg { width: 26px; height: 26px; }
+.route { transition: opacity .35s var(--ease), transform .35s var(--ease); }
+.route.swap { opacity: 0; transform: translateY(-6px); }
+
+/* ---------- Bento ---------- */
+.bvb-imgs img, .bvg-img img { background: var(--deep); }
+.bvd-hub svg { width: 118px; height: 118px; }
+.bve-tile { font-size: 46px; font-weight: 800; letter-spacing: -.04em; }
+
+/* ---------- Treatments ---------- */
+.hx-frame > img { transition: opacity .6s var(--ease); }
+.hx-frame .hx-alt { opacity: 0; }
+.hx-frame.matched .hx-alt { opacity: 1; }
+.sx-seg button { padding: 6px 12px; border-radius: 999px; font-size: 13px; font-weight: 600; line-height: 1.2; color: var(--deep); transition: background .25s, color .25s; }
+.sx-seg button.on { background: var(--purple); color: #fff; }
+.sx-seg button:focus-visible { outline: 2px solid var(--purple); outline-offset: 2px; }
+.sol-pola img { background: var(--deep); }
+
+/* ---------- Shade library (big-type list) ---------- */
+.th-macro::after { background: linear-gradient(180deg, rgba(2, 30, 68, 0) 45%, rgba(2, 30, 68, .85)); }
+.th-type { background: var(--c); color: var(--t); }
+.sx-sel.xr-sel { left: 18%; top: 26%; width: 64%; height: 48%; }
+
+/* ---------- Footer ---------- */
+.f-note { margin-top: 18px; max-width: 760px; font-size: 12.5px; line-height: 1.55; color: var(--gray2); }
+.wa-float { background: var(--deep); color: #fff; box-shadow: 0 0 0 3px rgba(207, 231, 248, .55), 0 12px 30px rgba(2, 30, 68, .35); }
+
+/* ---------- Content placeholders (assets/img/content/*) ----------
+   main.js swaps a missing file for a labelled frame showing the file name and size. */
+img[data-ph] { background-color: #0A2347; }
+img.is-ph { object-fit: cover; }
+.hero-poster img.is-ph { opacity: .55; }

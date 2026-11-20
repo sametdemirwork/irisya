@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Generated / large working files of the image and film tools
+irisya-tools/hf/raw/
+irisya-tools/hf/out/
+hero-film/irisya/raw/
+hero-film/irisya/build/
+hero-film/irisya/cache/
+hero-film/irisya/jobs/
+
+# Local Claude settings (launch.json stays shared)
+.claude/settings.local.json
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/

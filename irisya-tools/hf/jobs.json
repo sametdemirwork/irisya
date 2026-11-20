@@ -1,0 +1,695 @@
+[
+ {
+  "name": "story-1",
+  "model": "text2image_soul_v2",
+  "prompt": "Head-and-shoulders editorial portrait photograph of a woman in her early 30s from Dubai, warm olive skin, dark glossy hair loosely tied back, soft natural makeup, elegant cream linen blouse, standing on a sunlit stone terrace with softly blurred warm terracotta rooftops behind her. She looks straight into the camera with a calm, quietly confident smile. Her eyes are hazel, green-brown with a golden amber centre. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. 85mm lens, shallow depth of field, face in the upper half of the frame. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "3:4",
+  "quality": "2k"
+ },
+ {
+  "name": "moment-1",
+  "model": "text2image_soul_v2",
+  "prompt": "Candid holiday photo of a woman in her early 30s from Dubai, with long dark hair, walking along a cobbled Beyoğlu street at sunset with the round cylindrical medieval stone Galata Tower and its pointed conical grey roof rising behind her, warm golden light, candid travel photo, seen from three-quarter behind, wearing sunglasses pushed up in her hair. Natural, happy, relaxed travel moment in Istanbul, Turkey, the face is small in the frame. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "3:4",
+  "quality": "2k"
+ },
+ {
+  "name": "story-2",
+  "model": "text2image_soul_v2",
+  "prompt": "Head-and-shoulders editorial portrait photograph of a British woman in her late 20s from London, fair skin with light freckles, honey-blonde shoulder-length hair, minimal makeup, soft white knit top, sitting by a large window in an elegant hotel suite in Istanbul. She looks straight into the camera with a calm, quietly confident smile. Her eyes are pale icy blue, almost silver-blue, very light. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. 85mm lens, shallow depth of field, face in the upper half of the frame. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "3:4",
+  "quality": "2k"
+ },
+ {
+  "name": "moment-2",
+  "model": "text2image_soul_v2",
+  "prompt": "Candid holiday photo of a British woman in her late 20s from London, with honey-blonde shoulder-length hair, standing in the courtyard in front of the Blue Mosque in Istanbul, wearing sunglasses and a light scarf over her shoulders, bright morning light, candid travel photo. Natural, happy, relaxed travel moment in Istanbul, Turkey, the face is small in the frame. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "3:4",
+  "quality": "2k"
+ },
+ {
+  "name": "story-3",
+  "model": "text2image_soul_v2",
+  "prompt": "Head-and-shoulders editorial portrait photograph of a Romanian man in his mid 30s from Bucharest, fair skin, short dark-brown hair, neatly trimmed stubble, navy crew-neck sweater over a white T-shirt, standing in a bright modern hotel lobby in Istanbul. He looks straight into the camera with a calm, quietly confident smile. His eyes are cool soft silver grey with a faint blue cast. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. 85mm lens, shallow depth of field, face in the upper half of the frame. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "3:4",
+  "quality": "2k"
+ },
+ {
+  "name": "moment-3",
+  "model": "text2image_soul_v2",
+  "prompt": "Candid holiday photo of a Romanian man in his mid 30s from Bucharest, stepping into the back seat of a black luxury Mercedes V-Class van held open by a chauffeur in a dark suit outside Istanbul Airport, candid travel photo, daylight. Natural, happy, relaxed travel moment in Istanbul, Turkey, the face is small in the frame. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "3:4",
+  "quality": "2k"
+ },
+ {
+  "name": "story-4",
+  "model": "text2image_soul_v2",
+  "prompt": "Head-and-shoulders editorial portrait photograph of a German woman in her early 30s from Berlin, light skin, straight chestnut-brown hair tucked behind her ears, light grey blazer over a white top, standing in a calm Istanbul hotel garden with soft green foliage behind her. She looks straight into the camera with a calm, quietly confident smile. Her eyes are emerald green with small amber flecks around the pupil. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. 85mm lens, shallow depth of field, face in the upper half of the frame. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "3:4",
+  "quality": "2k"
+ },
+ {
+  "name": "moment-4",
+  "model": "text2image_soul_v2",
+  "prompt": "Candid holiday photo of a German woman in her early 30s from Berlin, relaxing on a sun lounger beside a luxury hotel infinity pool overlooking the Bosphorus, wearing sunglasses and a white robe, calm afternoon light, candid travel photo. Natural, happy, relaxed travel moment in Istanbul, Turkey, the face is small in the frame. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "3:4",
+  "quality": "2k"
+ },
+ {
+  "name": "story-5",
+  "model": "text2image_soul_v2",
+  "prompt": "Head-and-shoulders editorial portrait photograph of a Canadian woman in her mid 30s from Toronto, light skin, long wavy light-brown hair, natural makeup, camel trench coat over a black top, standing on a waterfront promenade with softly blurred calm blue water behind her. She looks straight into the camera with a calm, quietly confident smile. Her eyes are clear bright medium blue like the Bosphorus on a sunny day. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. 85mm lens, shallow depth of field, face in the upper half of the frame. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "3:4",
+  "quality": "2k"
+ },
+ {
+  "name": "moment-5",
+  "model": "text2image_soul_v2",
+  "prompt": "Candid holiday photo of a Canadian woman in her mid 30s from Toronto, leaning on the railing of a waterfront terrace on the Bosphorus at dusk, warm city lights and a lit mosque dome softly blurred behind her, wearing sunglasses on her head, candid travel photo. Natural, happy, relaxed travel moment in Istanbul, Turkey, the face is small in the frame. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "3:4",
+  "quality": "2k"
+ },
+ {
+  "name": "review-1",
+  "model": "text2image_soul_v2",
+  "prompt": "Friendly close-up headshot of a woman in her early 30s from Ireland with fair freckled skin, copper-red hair and pale icy blue eyes, smiling naturally at the camera, face centred and filling most of the square frame, plain softly blurred bright background, natural realistic eyes, both eyes the same colour. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "1:1",
+  "quality": "2k"
+ },
+ {
+  "name": "review-2",
+  "model": "text2image_soul_v2",
+  "prompt": "Friendly close-up headshot of a woman in her late 20s from Kuwait wearing an elegant beige silk hijab, warm light-brown skin and soft light-brown eyes, smiling naturally at the camera, face centred and filling most of the square frame, plain softly blurred bright background, natural realistic eyes, both eyes the same colour. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "1:1",
+  "quality": "2k"
+ },
+ {
+  "name": "review-3",
+  "model": "text2image_soul_v2",
+  "prompt": "Friendly close-up headshot of a British man in his mid 40s with fair skin, short greying hair, light stubble and cool silver-grey eyes, smiling naturally at the camera, face centred and filling most of the square frame, plain softly blurred bright background, natural realistic eyes, both eyes the same colour. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "1:1",
+  "quality": "2k"
+ },
+ {
+  "name": "review-4",
+  "model": "text2image_soul_v2",
+  "prompt": "Friendly close-up headshot of a Romanian man in his early 30s with fair skin, short black hair and natural medium-blue eyes, smiling naturally at the camera, face centred and filling most of the square frame, plain softly blurred bright background, natural realistic eyes, both eyes the same colour. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "1:1",
+  "quality": "2k"
+ },
+ {
+  "name": "review-5",
+  "model": "text2image_soul_v2",
+  "prompt": "Friendly close-up headshot of a French woman in her early 30s with light skin, a dark-brown bob haircut and blue-green aqua eyes, smiling naturally at the camera, face centred and filling most of the square frame, plain softly blurred bright background, natural realistic eyes, both eyes the same colour. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "1:1",
+  "quality": "2k"
+ },
+ {
+  "name": "review-6",
+  "model": "text2image_soul_v2",
+  "prompt": "Friendly close-up headshot of an American man in his early 50s with tanned skin, salt-and-pepper hair, a warm smile and deep sapphire blue eyes, smiling naturally at the camera, face centred and filling most of the square frame, plain softly blurred bright background, natural realistic eyes, both eyes the same colour. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "1:1",
+  "quality": "2k"
+ },
+ {
+  "name": "review-7",
+  "model": "text2image_soul_v2",
+  "prompt": "Friendly close-up headshot of an Italian woman in her late 20s with olive skin, long dark wavy hair and natural soft green eyes, smiling naturally at the camera, face centred and filling most of the square frame, plain softly blurred bright background, natural realistic eyes, both eyes the same colour. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "1:1",
+  "quality": "2k"
+ },
+ {
+  "name": "review-8",
+  "model": "text2image_soul_v2",
+  "prompt": "Friendly close-up headshot of a woman in her 30s from Qatar wearing a black shayla headscarf, warm olive skin and hazel green-brown eyes, smiling naturally at the camera, face centred and filling most of the square frame, plain softly blurred bright background, natural realistic eyes, both eyes the same colour. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "1:1",
+  "quality": "2k"
+ },
+ {
+  "name": "review-9",
+  "model": "text2image_soul_v2",
+  "prompt": "Friendly close-up headshot of a Dutch woman in her late 20s with fair skin, straight blonde hair and light amber-brown eyes, smiling naturally at the camera, face centred and filling most of the square frame, plain softly blurred bright background, natural realistic eyes, both eyes the same colour. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "1:1",
+  "quality": "2k"
+ },
+ {
+  "name": "team-1",
+  "model": "text2image_soul_v2",
+  "prompt": "Professional headshot of a Turkish male ophthalmologist in his late 40s, short dark hair greying at the temples, clean-shaven, kind confident expression, crisp white doctor's coat over a navy shirt, inside a bright modern eye clinic, face centred in the upper half of the square frame. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "1:1",
+  "quality": "2k"
+ },
+ {
+  "name": "team-2",
+  "model": "text2image_soul_v2",
+  "prompt": "Professional headshot of a Turkish woman in her early 30s working as an international patient coordinator, warm welcoming smile, dark hair in a neat low bun, tailored navy blazer over a white blouse, small earpiece, bright modern clinic lobby behind her, face centred in the frame. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "1:1",
+  "quality": "2k"
+ },
+ {
+  "name": "team-3",
+  "model": "text2image_soul_v2",
+  "prompt": "Professional headshot of a Turkish woman in her late 20s who designs eye-colour shades, light lab coat over a soft grey top, dark wavy shoulder-length hair, thoughtful friendly smile, softly blurred colour swatches behind her, face centred in the frame. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "1:1",
+  "quality": "2k"
+ },
+ {
+  "name": "why",
+  "model": "text2image_soul_v2",
+  "prompt": "Beauty editorial portrait of a woman in her late 20s with light olive skin, sleek dark hair pulled back, minimal makeup and small gold earrings, facing the camera with a serene expression. Her eyes are hazel, green-brown with a golden amber centre, positioned in the upper third of the frame. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. Soft window light, clean pale ice-blue background, shoulders and a white silk top visible. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "2:3",
+  "quality": "2k"
+ },
+ {
+  "name": "journey-1",
+  "model": "soul_cinematic",
+  "prompt": "Side view of a young woman with natural brown eyes standing next to a bright window in the right third of the frame, holding up her smartphone to take a daylight close-up photo of her own eye, calm and curious expression. The left half of the frame is a softly blurred bright white wall with soft daylight. Real photograph, no graphic panels, no text, no logos.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "journey-2",
+  "model": "text2image_soul_v2",
+  "prompt": "A professional chauffeur in a dark tailored suit waiting in the bright modern arrivals hall of Istanbul Airport, holding a small blank white welcome card, polite smile, travellers softly blurred in the background, a black luxury car visible through the glass facade. Composition: the main subject sits in the right half of the frame; the left half is calm, softly out of focus negative space. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "journey-3",
+  "model": "soul_cinematic",
+  "prompt": "An ophthalmologist in a white coat examining a female patient's eyes with a slit lamp microscope in a modern eye clinic, the patient rests her chin on the chin rest, calm and reassuring atmosphere. Modern minimalist eye clinic interior: white walls, pale ice-blue and deep navy accents, light oak details, spotless and calm, large windows with soft daylight. No text, no logos, no watermark. Composition: the main subject sits in the right half of the frame; the left half is calm, softly out of focus negative space.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "journey-4",
+  "model": "soul_cinematic",
+  "prompt": "A pristine modern ophthalmic procedure room with a femtosecond laser system and a white reclining patient bed under soft overhead light, nobody in the room, medical equipment arranged neatly, everything ready for a patient. Modern minimalist eye clinic interior: white walls, pale ice-blue and deep navy accents, light oak details, spotless and calm, large windows with soft daylight. No text, no logos, no watermark. Composition: the main subject sits in the right half of the frame; the left half is calm, softly out of focus negative space.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "journey-5",
+  "model": "text2image_soul_v2",
+  "prompt": "A woman wearing large dark sunglasses and a light travel outfit at the panoramic window of a modern airport departure lounge at golden hour, a carry-on suitcase beside her, an airliner on the tarmac outside, she smiles calmly, happy to be going home. Composition: the main subject sits in the right half of the frame; the left half is calm, softly out of focus negative space. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "riders",
+  "model": "soul_location",
+  "prompt": "Istanbul skyline at golden hour seen from a rooftop in Beyoğlu: the Galata Tower in the foreground, the Golden Horn and historic mosques with minarets behind, warm soft light, gentle haze, elegant travel photography, vertical composition, no text, no people.",
+  "aspect_ratio": "2:3"
+ },
+ {
+  "name": "vision-bg",
+  "model": "soul_location",
+  "prompt": "Wide panoramic view of the Bosphorus strait in Istanbul on a clear calm morning, historic wooden Ottoman waterfront mansions and green hills along the shore, soft pale blue sky, light airy atmosphere, travel photography, no text, no people.",
+  "aspect_ratio": "16:9"
+ },
+ {
+  "name": "footer",
+  "model": "soul_location",
+  "prompt": "Istanbul at blue hour seen from the water: the large illuminated Süleymaniye and New Mosque domes and minarets with the old town skyline fill the lower third of the frame, warm golden lights reflected in calm Bosphorus water, a deep navy blue-hour sky with soft gradient filling the upper half of the frame, elegant cinematic travel photography, no text, no people.",
+  "aspect_ratio": "21:9"
+ },
+ {
+  "name": "footer-portrait",
+  "model": "soul_location",
+  "prompt": "Vertical view of Istanbul at blue hour: the large illuminated Galata Tower and old town rooftops fill the lower half of the frame, warm city lights, a deep navy blue-hour sky filling the upper half, elegant cinematic travel photography, no text, no people.",
+  "aspect_ratio": "3:4"
+ },
+ {
+  "name": "clinic",
+  "model": "soul_location",
+  "prompt": "Reception area of a luxury eye clinic in Istanbul: a curved white reception desk with light oak details, deep navy lounge chairs, soft pendant lights, fresh white orchids, large windows with a softly blurred view of the Bosphorus, bright and calm, architectural interior photography, no text, no logos, no people.",
+  "aspect_ratio": "16:9"
+ },
+ {
+  "name": "package-hotel",
+  "model": "soul_location",
+  "prompt": "Elegant five-star hotel room in Istanbul with a king-size bed in crisp white linen, navy and cream accents, floor-to-ceiling windows overlooking the Bosphorus, soft morning light, luxury interior photography, no text, no people.",
+  "aspect_ratio": "16:9"
+ },
+ {
+  "name": "package-transfer",
+  "model": "soul_location",
+  "prompt": "A black luxury Mercedes V-Class van parked at the curb of a modern airport terminal in Istanbul, clean glass facade, soft daylight, premium chauffeur service photography, no text, no license plate text, no people.",
+  "aspect_ratio": "16:9"
+ },
+ {
+  "name": "package-procedure",
+  "model": "soul_cinematic",
+  "prompt": "Macro photograph of a human eye with a clear bright blue iris, a faint ring of light around the iris suggesting precise laser treatment, clean clinical blue lighting, high-end medical photography. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "bento-procedure",
+  "model": "soul_cinematic",
+  "prompt": "A hand holding a fanned-out deck of round iris colour shade sample cards in icy blue, bright blue, grey, aqua, green, hazel and honey tones, clean pale ice-blue background, soft daylight, shallow depth of field, premium clinic aesthetic, no text, no numbers.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "bento-aftercare",
+  "model": "text2image_soul_v2",
+  "prompt": "A woman at home on a sofa in soft daylight, wearing comfortable clothes, smiling as she takes a follow-up photo of her eyes with her smartphone to send to her clinic, a pair of sunglasses and eye drops on the coffee table, cosy calm mood, her face in the upper part of the frame. Premium editorial photography for a luxury ophthalmology clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood, subtle cool navy and ice-blue colour grading. No text, no watermark, no logos.",
+  "aspect_ratio": "3:2",
+  "quality": "2k"
+ },
+ {
+  "name": "tx-1",
+  "model": "soul_cinematic",
+  "prompt": "An ophthalmic surgeon in navy scrubs, surgical cap and mask performing laser keratopigmentation at a femtosecond laser system, the patient lies calmly on the treatment bed, focused precise atmosphere, cool clinical light. Modern minimalist eye clinic interior: white walls, pale ice-blue and deep navy accents, light oak details, spotless and calm, large windows with soft daylight. No text, no logos, no watermark.",
+  "aspect_ratio": "4:3",
+  "quality": "2k"
+ },
+ {
+  "name": "tx-2",
+  "model": "soul_cinematic",
+  "prompt": "Close-up of a patient seated at an ophthalmic laser with her chin on the chin rest while a doctor adjusts the device, soft cool blue clinical light, precise calm atmosphere, shallow depth of field. Modern minimalist eye clinic interior: white walls, pale ice-blue and deep navy accents, light oak details, spotless and calm, large windows with soft daylight. No text, no logos, no watermark.",
+  "aspect_ratio": "4:3",
+  "quality": "2k"
+ },
+ {
+  "name": "tx-3",
+  "model": "soul_cinematic",
+  "prompt": "Elegant flat lay on a pale ice-blue surface: rows of small glass pigment vials and round iris-colour shade discs in icy blue, bright blue, sapphire, silver grey, aqua green, emerald, hazel and honey tones, a fine brush and a magnifier, premium laboratory aesthetic, soft daylight, no text, no labels.",
+  "aspect_ratio": "4:3",
+  "quality": "2k"
+ },
+ {
+  "name": "tx-4",
+  "model": "soul_cinematic",
+  "prompt": "Close-up photograph of a young woman's face cropped from the brows to the nose, both eyes open and looking at the camera, she has heterochromia: her left eye is dark brown and her right eye is light blue. Natural skin, soft daylight, clean neutral background. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. No text.",
+  "aspect_ratio": "4:3",
+  "quality": "2k"
+ },
+ {
+  "name": "tx-4-after",
+  "model": "gpt_image_2_6",
+  "prompt": "Edit this photo: change only the iris of the brown eye (on the left side of the image) to exactly the same light blue colour and texture as the other eye, so both eyes match in one natural light blue shade. Keep the face, skin, lashes, brows, lighting, framing and everything else identical. Photorealistic, no text.",
+  "aspect_ratio": "4:3",
+  "quality": "medium",
+  "image": "tx-4.png",
+  "extra": {
+   "resolution": "2k"
+  }
+ },
+ {
+  "name": "tx-1-detail",
+  "model": "soul_cinematic",
+  "prompt": "Macro close-up of a single human eye with a clear bright medium blue like the Bosphorus on a sunny day iris, eyelashes and part of the brow visible, soft daylight. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. No text.",
+  "aspect_ratio": "3:4",
+  "quality": "2k"
+ },
+ {
+  "name": "tx-2-detail",
+  "model": "soul_cinematic",
+  "prompt": "Macro close-up of a single human eye with a natural dark brown iris, eyelashes and part of the brow visible, soft daylight. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. No text.",
+  "aspect_ratio": "3:4",
+  "quality": "2k"
+ },
+ {
+  "name": "tx-3-detail",
+  "model": "soul_cinematic",
+  "prompt": "Close-up of gloved hands blending a hazel and honey coloured mineral pigment on a small glass palette with a fine spatula, soft daylight, laboratory precision, no text.",
+  "aspect_ratio": "3:4",
+  "quality": "2k"
+ },
+ {
+  "name": "send-photos",
+  "model": "soul_cinematic",
+  "prompt": "Wide daylight close-up photograph of a woman's single eye centred in the frame, natural medium-brown iris, soft window light, no flash, no contact lenses, natural skin and lashes, clean and sharp, like a reference photo sent to a clinic. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. No text.",
+  "aspect_ratio": "21:9",
+  "quality": "2k"
+ },
+ {
+  "name": "shade-1",
+  "model": "soul_cinematic",
+  "prompt": "Daylight close-up photograph of the eye area of a fair-skinned woman in her late 20s with light brown brows, one eye and brow centred in the frame, the iris is pale icy blue, almost silver-blue, very light. Soft window light, natural lashes and skin texture. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "shade-1-detail",
+  "model": "soul_cinematic",
+  "prompt": "Extreme macro photograph of a human iris filling the frame, the iris is pale icy blue, almost silver-blue, very light, intricate radial fibres, crypts and texture in sharp detail, small dark pupil in the centre, a soft catchlight, natural photographic look, high-end macro photography. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "shade-2",
+  "model": "soul_cinematic",
+  "prompt": "Daylight close-up photograph of the eye area of a woman in her 30s with light olive skin and dark brows, one eye and brow centred in the frame, the iris is clear bright medium blue like the Bosphorus on a sunny day. Soft window light, natural lashes and skin texture. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "shade-2-detail",
+  "model": "soul_cinematic",
+  "prompt": "Extreme macro photograph of a human iris filling the frame, the iris is clear bright medium blue like the Bosphorus on a sunny day, intricate radial fibres, crypts and texture in sharp detail, small dark pupil in the centre, a soft catchlight, natural photographic look, high-end macro photography. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "shade-3",
+  "model": "soul_cinematic",
+  "prompt": "Daylight close-up photograph of the eye area of a man in his 30s with fair skin and dark brows, one eye and brow centred in the frame, the iris is a deep, rich sapphire blue: dark saturated royal-navy blue, clearly blue, not grey. Soft window light, natural lashes and skin texture. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "shade-3-detail",
+  "model": "soul_cinematic",
+  "prompt": "Extreme macro photograph of a human iris filling the frame, the iris is a deep, rich sapphire blue: dark saturated royal-navy blue, clearly blue, not grey, intricate radial fibres, crypts and texture in sharp detail, small dark pupil in the centre, a soft catchlight, natural photographic look, high-end macro photography. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "shade-4",
+  "model": "soul_cinematic",
+  "prompt": "Daylight close-up photograph of the eye area of a man in his 40s with fair skin and ash-brown brows, one eye and brow centred in the frame, the iris is cool soft silver grey with a faint blue cast. Soft window light, natural lashes and skin texture. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "shade-4-detail",
+  "model": "soul_cinematic",
+  "prompt": "Extreme macro photograph of a human iris filling the frame, the iris is cool soft silver grey with a faint blue cast, intricate radial fibres, crypts and texture in sharp detail, small dark pupil in the centre, a soft catchlight, natural photographic look, high-end macro photography. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "shade-5",
+  "model": "soul_cinematic",
+  "prompt": "Daylight close-up photograph of the eye area of a woman in her 30s with tanned skin and dark brown brows, one eye and brow centred in the frame, the iris is blue-green aqua, like shallow Aegean sea water. Soft window light, natural lashes and skin texture. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "shade-5-detail",
+  "model": "soul_cinematic",
+  "prompt": "Extreme macro photograph of a human iris filling the frame, the iris is blue-green aqua, like shallow Aegean sea water, intricate radial fibres, crypts and texture in sharp detail, small dark pupil in the centre, a soft catchlight, natural photographic look, high-end macro photography. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "shade-6",
+  "model": "soul_cinematic",
+  "prompt": "Daylight close-up photograph of the eye area of a woman in her 20s with warm beige skin and auburn brows, one eye and brow centred in the frame, the iris is emerald green with small amber flecks around the pupil. Soft window light, natural lashes and skin texture. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "shade-6-detail",
+  "model": "soul_cinematic",
+  "prompt": "Extreme macro photograph of a human iris filling the frame, the iris is emerald green with small amber flecks around the pupil, intricate radial fibres, crypts and texture in sharp detail, small dark pupil in the centre, a soft catchlight, natural photographic look, high-end macro photography. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "shade-7",
+  "model": "soul_cinematic",
+  "prompt": "Daylight close-up photograph of the eye area of a woman in her 30s with medium olive skin and dark brows, one eye and brow centred in the frame, the iris is hazel, green-brown with a golden amber centre. Soft window light, natural lashes and skin texture. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "shade-7-detail",
+  "model": "soul_cinematic",
+  "prompt": "Extreme macro photograph of a human iris filling the frame, the iris is hazel, green-brown with a golden amber centre, intricate radial fibres, crypts and texture in sharp detail, small dark pupil in the centre, a soft catchlight, natural photographic look, high-end macro photography. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "shade-8",
+  "model": "soul_cinematic",
+  "prompt": "Daylight close-up photograph of the eye area of a woman in her 30s with light brown skin and black brows, one eye and brow centred in the frame, the iris is warm honey amber, light golden brown. Soft window light, natural lashes and skin texture. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "shade-8-detail",
+  "model": "soul_cinematic",
+  "prompt": "Extreme macro photograph of a human iris filling the frame, the iris is warm honey amber, light golden brown, intricate radial fibres, crypts and texture in sharp detail, small dark pupil in the centre, a soft catchlight, natural photographic look, high-end macro photography. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "og",
+  "model": "soul_cinematic",
+  "prompt": "Cinematic close-up of a woman's eye with a clear bright blue iris on the right side of the frame, the left side of the frame fades into deep navy darkness, elegant premium beauty campaign image, soft rim light. The eyes are sharp and in focus and the iris colour is clearly visible, natural and believable, not glowing, not contact-lens-like. No text.",
+  "aspect_ratio": "16:9",
+  "quality": "2k"
+ },
+ {
+  "name": "why-shade-a",
+  "model": "text2image_soul_v2",
+  "prompt": "Editorial photograph of an eye colour consultation beside a large window in soft natural morning daylight. A woman in her early 30s with light olive skin, natural dark brown eyes and long dark brown wavy hair sits in three-quarter view, her face in the upper half of the frame. From the right edge of the frame a clinician's hand, white coat sleeve, clean short nails, no gloves, holds a single small round iris colour sample disc about the size of a coin, printed with a realistic hazel iris pattern, golden amber around the pupil fading to soft green, right next to her cheekbone, a few centimetres from her eye, so the shade can be compared with her skin and her hair. She looks calmly toward a mirror just outside the frame, thoughtful and relaxed. Bright, minimal clinic room, white wall, softly blurred window behind her. Natural realistic skin texture, shallow depth of field, the disc and her eye both sharp. Calm, honest, documentary-style medical editorial photography. No text, no numbers, no logos, no watermark, no contact lenses.",
+  "aspect_ratio": "3:4",
+  "quality": "2k"
+ },
+ {
+  "name": "why-shade-b",
+  "model": "soul_cinematic",
+  "prompt": "Editorial photograph of an eye colour consultation beside a large window in soft natural morning daylight. A woman in her early 30s with light olive skin, natural dark brown eyes and long dark brown wavy hair sits in three-quarter view, her face in the upper half of the frame. From the right edge of the frame a clinician's hand, white coat sleeve, clean short nails, no gloves, holds a single small round iris colour sample disc about the size of a coin, printed with a realistic hazel iris pattern, golden amber around the pupil fading to soft green, right next to her cheekbone, a few centimetres from her eye, so the shade can be compared with her skin and her hair. She looks calmly toward a mirror just outside the frame, thoughtful and relaxed. Bright, minimal clinic room, white wall, softly blurred window behind her. Natural realistic skin texture, shallow depth of field, the disc and her eye both sharp. Calm, honest, documentary-style medical editorial photography. No text, no numbers, no logos, no watermark, no contact lenses.",
+  "aspect_ratio": "3:4",
+  "quality": "2k"
+ },
+ {
+  "name": "why-shade-c",
+  "model": "gpt_image_2_6",
+  "prompt": "Editorial photograph of an eye colour consultation beside a large window in soft natural morning daylight. A woman in her early 30s with light olive skin, natural dark brown eyes and long dark brown wavy hair sits in three-quarter view, her face in the upper half of the frame. From the right edge of the frame a clinician's hand, white coat sleeve, clean short nails, no gloves, holds a single small round iris colour sample disc about the size of a coin, printed with a realistic hazel iris pattern, golden amber around the pupil fading to soft green, right next to her cheekbone, a few centimetres from her eye, so the shade can be compared with her skin and her hair. She looks calmly toward a mirror just outside the frame, thoughtful and relaxed. Bright, minimal clinic room, white wall, softly blurred window behind her. Natural realistic skin texture, shallow depth of field, the disc and her eye both sharp. Calm, honest, documentary-style medical editorial photography. No text, no numbers, no logos, no watermark, no contact lenses.",
+  "aspect_ratio": "3:4",
+  "quality": "high",
+  "extra": {
+   "resolution": "2k"
+  }
+ },
+ {
+  "name": "story-1-before",
+  "model": "gpt_image_2_6",
+  "prompt": "Edit this photo: change only the iris colour of both eyes to a very dark, deep espresso brown, almost black-brown, a natural ordinary dark brown eye with subtle fibre texture and no green or gold. Keep her pupils, catchlights, eye whites, lashes, brows, skin, face, expression, hair, clothes, background, lighting, colour grading and framing exactly identical. Photorealistic, no text.",
+  "aspect_ratio": "3:4",
+  "quality": "medium",
+  "image": "story-1.png",
+  "extra": {
+   "resolution": "2k"
+  }
+ },
+ {
+  "name": "story-2-before",
+  "model": "gpt_image_2_6",
+  "prompt": "Edit this photo: change only the iris colour of both eyes to a natural, ordinary dark brown, the most common human eye colour, a deep warm chocolate brown with subtle natural fibre texture. Keep her pupils, catchlights, eye whites, lashes, brows, skin, face, expression, hair, clothes, background, lighting, colour grading and framing exactly identical. Photorealistic, no text.",
+  "aspect_ratio": "3:4",
+  "quality": "medium",
+  "image": "story-2.png",
+  "extra": {
+   "resolution": "2k"
+  }
+ },
+ {
+  "name": "story-3-before",
+  "model": "gpt_image_2_6",
+  "prompt": "Edit this photo: change only the iris colour of both eyes to a natural, ordinary dark brown, the most common human eye colour, a deep warm chocolate brown with subtle natural fibre texture. Keep his pupils, catchlights, eye whites, lashes, brows, skin, face, expression, hair, clothes, background, lighting, colour grading and framing exactly identical. Photorealistic, no text.",
+  "aspect_ratio": "3:4",
+  "quality": "medium",
+  "image": "story-3.png",
+  "extra": {
+   "resolution": "2k"
+  }
+ },
+ {
+  "name": "story-4-before",
+  "model": "gpt_image_2_6",
+  "prompt": "Edit this photo: change only the iris colour of both eyes to a natural, ordinary dark brown, the most common human eye colour, a deep warm chocolate brown with subtle natural fibre texture. Keep her pupils, catchlights, eye whites, lashes, brows, skin, face, expression, hair, clothes, background, lighting, colour grading and framing exactly identical. Photorealistic, no text.",
+  "aspect_ratio": "3:4",
+  "quality": "medium",
+  "image": "story-4.png",
+  "extra": {
+   "resolution": "2k"
+  }
+ },
+ {
+  "name": "story-5-before",
+  "model": "gpt_image_2_6",
+  "prompt": "Edit this photo: change only the iris colour of both eyes to a natural medium-dark chocolate brown with subtle fibre texture, neutral brown, not red, not maroon. Keep her pupils, catchlights, eye whites, lashes, brows, skin, face, expression, hair, clothes, background, lighting, colour grading and framing exactly identical. Photorealistic, no text.",
+  "aspect_ratio": "3:4",
+  "quality": "medium",
+  "image": "story-5.png",
+  "extra": {
+   "resolution": "2k"
+  }
+ },
+ {
+  "name": "story-3-after",
+  "model": "gpt_image_2_6",
+  "prompt": "Edit this photo: change only the iris colour of both eyes to a cool, soft silver grey with a very faint blue cast, clearly grey rather than blue, natural fibre texture, not glowing. Keep his pupils, catchlights, eye whites, lashes, brows, skin, face, expression, hair, clothes, background, lighting, colour grading and framing exactly identical. Photorealistic, no text.",
+  "aspect_ratio": "3:4",
+  "quality": "medium",
+  "image": "story-3.png",
+  "extra": {
+   "resolution": "2k"
+  }
+ },
+ {
+  "name": "story-5-after",
+  "model": "gpt_image_2_6",
+  "prompt": "Edit this photo: change only the iris colour of both eyes to a clear, bright medium blue like the Bosphorus sea on a sunny day, clearly blue rather than grey, natural fibre texture, not glowing. Keep her pupils, catchlights, eye whites, lashes, brows, skin, face, expression, hair, clothes, background, lighting, colour grading and framing exactly identical. Photorealistic, no text.",
+  "aspect_ratio": "3:4",
+  "quality": "medium",
+  "image": "story-5.png",
+  "extra": {
+   "resolution": "2k"
+  }
+ },
+ {
+  "name": "quote-1",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "An Irish woman in her early 30s with copper-red wavy hair and fair freckled skin at home by a bright window, holding her smartphone up beside her cheek, the phone screen shows a large close-up photo of a single human eye; she looks straight into the camera with a delighted smile. Her eyes are pale icy blue, almost silver-blue. The eyes are sharp, in focus and clearly visible, both irises the same colour, natural and believable, not glowing, not contact-lens-like. Vertical composition: the face and eyes sit in the upper 40% of the frame; the lower half of the frame is calm (shoulders, clothing, hands) with no important detail. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos."
+ },
+ {
+  "name": "quote-2",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "Close portrait of a Kuwaiti woman in her late 20s wearing an elegant beige silk hijab, smiling warmly at the camera, while her mother in a black hijab leans her head close beside her and looks at her daughter's eyes with proud, tender delight, bright calm clinic lounge softly blurred behind. The daughter's eyes are warm honey amber, light golden brown. The eyes are sharp, in focus and clearly visible, both irises the same colour, natural and believable, not glowing, not contact-lens-like. Vertical composition: the face and eyes sit in the upper 40% of the frame; the lower half of the frame is calm (shoulders, clothing, hands) with no important detail. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos."
+ },
+ {
+  "name": "quote-3",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "A British man in his mid 30s with short light-brown hair and a trimmed beard, on a sunny Istanbul waterfront, pulling his dark sunglasses down his nose with one finger and looking over the top of them straight into the camera with a relaxed half-smile. His eyes are cool soft silver grey with a faint blue cast. The eyes are sharp, in focus and clearly visible, both irises the same colour, natural and believable, not glowing, not contact-lens-like. Vertical composition: the face and eyes sit in the upper 40% of the frame; the lower half of the frame is calm (shoulders, clothing, hands) with no important detail. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos."
+ },
+ {
+  "name": "quote-4",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "A Romanian man in his early 30s with short dark hair and light stubble sitting in an airplane window seat, soft sunlight from the small window on his face, turning to look straight into the camera with a calm happy smile. His eyes are a clear bright medium blue, like the sea on a sunny day. The eyes are sharp, in focus and clearly visible, both irises the same colour, natural and believable, not glowing, not contact-lens-like. Vertical composition: the face and eyes sit in the upper 40% of the frame; the lower half of the frame is calm (shoulders, clothing, hands) with no important detail. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos."
+ },
+ {
+  "name": "quote-5",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "An Austrian woman in her late 20s with straight light-brown hair resting her chin on the chin rest of an ophthalmic slit lamp in a modern white eye clinic, her face turned three-quarters toward the camera, calm and reassured, a doctor's gloved hand adjusting the device at the edge of the frame. Her eyes are blue-green aqua, like shallow Aegean sea water. The eyes are sharp, in focus and clearly visible, both irises the same colour, natural and believable, not glowing, not contact-lens-like. Vertical composition: the face and eyes sit in the upper 40% of the frame; the lower half of the frame is calm (shoulders, clothing, hands) with no important detail. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos."
+ },
+ {
+  "name": "quote-6",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "An Italian woman in her early 30s with long dark-brown hair on a bright hotel balcony, holding her smartphone close to her face to take a daylight close-up photo of her own eye, looking just past the phone toward the camera with a soft smile. Her eyes are emerald green with small amber flecks around the pupil. The eyes are sharp, in focus and clearly visible, both irises the same colour, natural and believable, not glowing, not contact-lens-like. Vertical composition: the face and eyes sit in the upper 40% of the frame; the lower half of the frame is calm (shoulders, clothing, hands) with no important detail. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos."
+ },
+ {
+  "name": "quote-7",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "An American man in his early 50s with salt-and-pepper hair and a navy jacket sitting in the back seat of a black luxury car, holding his sunglasses in one hand, turned toward the camera with a warm confident smile, a city waterfront softly blurred through the window. His eyes are a deep rich sapphire blue, clearly blue. The eyes are sharp, in focus and clearly visible, both irises the same colour, natural and believable, not glowing, not contact-lens-like. Vertical composition: the face and eyes sit in the upper 40% of the frame; the lower half of the frame is calm (shoulders, clothing, hands) with no important detail. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos."
+ },
+ {
+  "name": "quote-8",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "A Qatari woman in her early 30s in an elegant black shayla headscarf laughing at a sunny café table, two women friends lean in close on either side to admire her eyes with delighted curiosity, she looks straight into the camera. Her eyes are hazel, green-brown with a golden amber centre. The eyes are sharp, in focus and clearly visible, both irises the same colour, natural and believable, not glowing, not contact-lens-like. Vertical composition: the face and eyes sit in the upper 40% of the frame; the lower half of the frame is calm (shoulders, clothing, hands) with no important detail. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos."
+ },
+ {
+  "name": "quote-9",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "A Dutch woman in her late 20s with blonde hair in a low ponytail in a bright eye-clinic consultation room, an ophthalmologist's hand holds a fanned deck of round iris-colour shade swatches up beside her face to compare; she looks straight into the camera with a curious, happy smile. Her eyes are warm honey amber, light golden brown. The eyes are sharp, in focus and clearly visible, both irises the same colour, natural and believable, not glowing, not contact-lens-like. Vertical composition: the face and eyes sit in the upper 40% of the frame; the lower half of the frame is calm (shoulders, clothing, hands) with no important detail. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos."
+ },
+ {
+  "name": "quote-2a",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "Close portrait of a Kuwaiti woman in her late 20s wearing an elegant beige silk hijab, her face in the upper part of the frame, smiling and looking straight into the camera, her mother in a black hijab beside her, cheek close to hers, also smiling, a bright calm clinic lounge softly blurred behind. The daughter's eyes are warm honey amber, light golden brown. The eyes are sharp, in focus and clearly visible, both irises the same colour, natural and believable, not glowing, not contact-lens-like. Vertical composition: the face and eyes sit in the upper 40% of the frame; the lower half of the frame is calm (shoulders, clothing, hands) with no important detail. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos. A single natural photograph: not a collage, no split screen, no inset images."
+ },
+ {
+  "name": "quote-2b",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "Close portrait of a Kuwaiti woman in her late 20s wearing an elegant beige silk hijab, her face in the upper part of the frame, smiling and looking straight into the camera, her mother in a black hijab beside her, cheek close to hers, also smiling, a bright calm clinic lounge softly blurred behind. The daughter's eyes are warm honey amber, light golden brown. The eyes are sharp, in focus and clearly visible, both irises the same colour, natural and believable, not glowing, not contact-lens-like. Vertical composition: the face and eyes sit in the upper 40% of the frame; the lower half of the frame is calm (shoulders, clothing, hands) with no important detail. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos. A single natural photograph: not a collage, no split screen, no inset images."
+ },
+ {
+  "name": "quote-3a",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "A British man in his mid 30s with short light-brown hair and a trimmed beard on a sunny Istanbul waterfront, holding his dark sunglasses in one hand at chest height, squinting slightly in the bright light and looking straight into the camera with a relaxed smile. His eyes are cool soft silver grey with a faint blue cast. The eyes are sharp, in focus and clearly visible, both irises the same colour, natural and believable, not glowing, not contact-lens-like. Vertical composition: the face and eyes sit in the upper 40% of the frame; the lower half of the frame is calm (shoulders, clothing, hands) with no important detail. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos. A single natural photograph: not a collage, no split screen, no inset images."
+ },
+ {
+  "name": "quote-3b",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "A British man in his mid 30s with short light-brown hair and a trimmed beard on a sunny Istanbul waterfront, holding his dark sunglasses in one hand at chest height, squinting slightly in the bright light and looking straight into the camera with a relaxed smile. His eyes are cool soft silver grey with a faint blue cast. The eyes are sharp, in focus and clearly visible, both irises the same colour, natural and believable, not glowing, not contact-lens-like. Vertical composition: the face and eyes sit in the upper 40% of the frame; the lower half of the frame is calm (shoulders, clothing, hands) with no important detail. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos. A single natural photograph: not a collage, no split screen, no inset images."
+ },
+ {
+  "name": "quote-5a",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "An Austrian woman in her late 20s with straight light-brown hair sitting in a white ophthalmology examination chair in a bright modern eye clinic after her eye exam, relaxed and reassured, looking straight into the camera with a gentle smile, a slit lamp softly blurred to the side behind her. Her eyes are blue-green aqua, like shallow Aegean sea water. The eyes are sharp, in focus and clearly visible, both irises the same colour, natural and believable, not glowing, not contact-lens-like. Vertical composition: the face and eyes sit in the upper 40% of the frame; the lower half of the frame is calm (shoulders, clothing, hands) with no important detail. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos. A single natural photograph: not a collage, no split screen, no inset images."
+ },
+ {
+  "name": "quote-5b",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "An Austrian woman in her late 20s with straight light-brown hair sitting in a white ophthalmology examination chair in a bright modern eye clinic after her eye exam, relaxed and reassured, looking straight into the camera with a gentle smile, a slit lamp softly blurred to the side behind her. Her eyes are blue-green aqua, like shallow Aegean sea water. The eyes are sharp, in focus and clearly visible, both irises the same colour, natural and believable, not glowing, not contact-lens-like. Vertical composition: the face and eyes sit in the upper 40% of the frame; the lower half of the frame is calm (shoulders, clothing, hands) with no important detail. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos. A single natural photograph: not a collage, no split screen, no inset images."
+ },
+ {
+  "name": "quote-6a",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "An Italian woman in her early 30s with long dark-brown hair on a bright hotel balcony, looking straight into the camera with a soft smile, holding her smartphone low in front of her chest, the Bosphorus softly blurred behind her. Her eyes are emerald green with small amber flecks around the pupil. The eyes are sharp, in focus and clearly visible, both irises the same colour, natural and believable, not glowing, not contact-lens-like. Vertical composition: the face and eyes sit in the upper 40% of the frame; the lower half of the frame is calm (shoulders, clothing, hands) with no important detail. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos. A single natural photograph: not a collage, no split screen, no inset images."
+ },
+ {
+  "name": "quote-6b",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "An Italian woman in her early 30s with long dark-brown hair on a bright hotel balcony, looking straight into the camera with a soft smile, holding her smartphone low in front of her chest, the Bosphorus softly blurred behind her. Her eyes are emerald green with small amber flecks around the pupil. The eyes are sharp, in focus and clearly visible, both irises the same colour, natural and believable, not glowing, not contact-lens-like. Vertical composition: the face and eyes sit in the upper 40% of the frame; the lower half of the frame is calm (shoulders, clothing, hands) with no important detail. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos. A single natural photograph: not a collage, no split screen, no inset images."
+ },
+ {
+  "name": "quote-3c",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "A British man in his mid 30s with short light-brown hair and a trimmed beard, wearing a navy overshirt, standing on a sunny Istanbul waterfront promenade with the sea softly blurred behind him, relaxed smile, holding a pair of dark sunglasses loosely in one hand by his chest, looking into the camera. His eyes are cool soft silver grey with a faint blue cast. His eyes are sharp, in focus and clearly visible, natural and believable, not glowing. Waist-up medium shot, one continuous single photograph, camera at eye level, plenty of torso visible below the face. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos."
+ },
+ {
+  "name": "quote-3d",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "A British man in his mid 30s with short light-brown hair and a trimmed beard, wearing a navy overshirt, standing on a sunny Istanbul waterfront promenade with the sea softly blurred behind him, relaxed smile, holding a pair of dark sunglasses loosely in one hand by his chest, looking into the camera. His eyes are cool soft silver grey with a faint blue cast. His eyes are sharp, in focus and clearly visible, natural and believable, not glowing. Waist-up medium shot, one continuous single photograph, camera at eye level, plenty of torso visible below the face. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos."
+ },
+ {
+  "name": "quote-5c",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "An Austrian woman in her late 20s with straight light-brown hair and a soft grey sweater, sitting in a white ophthalmology examination chair in a bright modern eye clinic, relaxed and reassured, gentle smile, looking into the camera, a slit lamp microscope softly blurred to one side. Her eyes are blue-green aqua, like shallow Aegean sea water. Her eyes are sharp, in focus and clearly visible, natural and believable, not glowing. Waist-up medium shot, one continuous single photograph, camera at eye level, plenty of torso visible below the face. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos."
+ },
+ {
+  "name": "quote-5d",
+  "model": "text2image_soul_v2",
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "prompt": "An Austrian woman in her late 20s with straight light-brown hair and a soft grey sweater, sitting in a white ophthalmology examination chair in a bright modern eye clinic, relaxed and reassured, gentle smile, looking into the camera, a slit lamp microscope softly blurred to one side. Her eyes are blue-green aqua, like shallow Aegean sea water. Her eyes are sharp, in focus and clearly visible, natural and believable, not glowing. Waist-up medium shot, one continuous single photograph, camera at eye level, plenty of torso visible below the face. Premium editorial photography for a luxury eye-colour clinic in Istanbul. Natural, realistic skin texture, soft flattering daylight, calm and refined mood. No text, no watermark, no logos."
+ }
+]
