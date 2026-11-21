@@ -129,17 +129,18 @@
 
 <!-- Hero -->
 <section class="hero" id="top">
-  <!-- Hero film: 16 s loop (eye, Istanbul, pickup, hotel, exam). The script picks the 1080p, 720p or
-       portrait file and starts it at 1 s, the frame hero.webp shows, so poster and film line up. -->
+  <!-- Hero film: 16 s fast-cut loop of the Kling clips (iris, Istanbul, pickup, exam, iris), made by
+       hero-film/irisya/build.py. The script picks the 1080p, 720p or portrait file and starts it at 1 s,
+       the frame hero.webp shows, so poster and film line up. Bump data-v and the ?v= on the posters after a re-render. -->
   <div class="hero-film" aria-hidden="true">
     <picture class="hero-poster">
-      <source media="(prefers-reduced-motion: reduce) and (max-aspect-ratio: 4/5) and (max-width: 700px)" srcset="assets/img/content/hero-still-portrait.webp" width="608" height="1080">
-      <source media="(prefers-reduced-motion: reduce)" srcset="assets/img/content/hero-still.webp" width="1920" height="1080">
-      <source media="(max-aspect-ratio: 4/5) and (max-width: 700px)" srcset="assets/img/content/hero-portrait.webp" width="608" height="1080">
-      <img src="assets/img/content/hero.webp" data-ph="Hero film, first frame" width="1920" height="1080" alt="" fetchpriority="high" decoding="async">
+      <source media="(prefers-reduced-motion: reduce) and (max-aspect-ratio: 4/5) and (max-width: 700px)" srcset="assets/img/content/hero-still-portrait.webp?v=2" width="608" height="1080">
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/img/content/hero-still.webp?v=2" width="1920" height="1080">
+      <source media="(max-aspect-ratio: 4/5) and (max-width: 700px)" srcset="assets/img/content/hero-portrait.webp?v=2" width="608" height="1080">
+      <img src="assets/img/content/hero.webp?v=2" data-ph="Hero film, first frame" width="1920" height="1080" alt="" fetchpriority="high" decoding="async">
     </picture>
     <video class="hero-video" id="heroVideo" muted loop playsinline preload="none" disablepictureinpicture disableremoteplayback tabindex="-1"
-           data-hd="assets/img/content/hero" data-sd="assets/img/content/hero-720" data-portrait="assets/img/content/hero-portrait"></video>
+           data-hd="assets/img/content/hero" data-sd="assets/img/content/hero-720" data-portrait="assets/img/content/hero-portrait" data-v="2"></video>
   </div>
 
   <div class="container">
@@ -1100,7 +1101,7 @@
 <a class="wa-float" href="#" data-whatsapp aria-label="Chat with us on WhatsApp"><svg><use href="#i-whatsapp"/></svg></a>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
-<script src="assets/js/main.js?v=10"></script>
+<script src="assets/js/main.js?v=11"></script>
 </body>
 </html>
 

@@ -38,7 +38,8 @@ Yeniden üretmek için (Python, numpy, pillow):
    `python fetch.py` çalıştırın (ham PNG'ler `raw/` içine iner, git'e girmez).
 2. `python recolour.py`, `python ba.py`, ardından `process.py` içinde siteye giren adlarla `python process.py ...`.
    `og-image` adını vermeyin: mevcut `og-image.jpg` daha yeni tasarım, `process.py` eski sürümünü üretir.
-3. Hero filmi: `hero-film/irisya/` içinde `python -E stills.py` (`pip install imageio-ffmpeg`).
+3. Hero filmi: `hero-film/irisya/` içinde `python -E build.py fetch` (klipleri indirir), ardından `python -E build.py`
+   (`pip install imageio-ffmpeg`).
 
 ### Birebir aynı kaynaktan gelenler (51 dosya)
 story-1…5, moment-1…5, quote-1…9, journey-1…5, riders, footer, footer-portrait, clinic, tx-1…4,
@@ -54,7 +55,7 @@ ve Kling 4.0 videoları geçmişte görünmüyor** (video listesi boş geliyor).
 | `why.webp` | `why-shade-c` (GPT Image) | Aynı istemin Soul Cinematic sürümü `why-shade-b`; renkli bölgeler (`COLOUR_SPOTS`) ona göre yeniden ölçüldü. Sahne aynı: pencere önünde yanağa tutulan IR-07 Hazel diski. |
 | `story-1…5-before.webp`, `story-3/5-after` | GPT Image ile kahverengi / düzeltilmiş göz düzenlemeleri | `irisya-tools/hf/recolour.py`: iris çemberi bulunur, göz kapağı ayrılır, yalnızca iris pikselleri yeniden renklenir (doku korunur). `ba.py` artık bu aracın kaydettiği iris maskesini kullanıyor; `BEFORE_TONE` boşaltıldı. |
 | `tx-4-after.webp` | GPT Image (kahverengi gözü mavi yapan düzenleme) | `recolour.py`: kahverengi iris, diğer gözün açık gri-mavisine eşlendi. |
-| `hero*.mp4/webm`, `hero*.webp` | 8 Kling klibi + `build.py` | **Geçici:** `hero-film/irisya/stills.py`, `build.py`'nin kurgusunu (16 sn, aynı geçişler, renk, bölüm zamanları, telefon kırpması, posterler) Higgsfield fotoğraflarıyla kuruyor: ela iris → Boğaz (mavi saat) → Galata → transfer aracı → karşılama şoförü → otel → buz mavisi iris → muayene → iris. Plaka, Mercedes rozeti ve karşılama kartındaki anlamsız yazı bulanıklaştırıldı. Kling klipleri bulunursa `raw/` içine koyup `python -E build.py` çalıştırmak hepsinin yerine gerçek filmi koyar. |
+| `hero*.mp4/webm`, `hero*.webp` | 8 Kling klibi + `build.py` | **21 Kasım 2026: gerçek klipler geri geldi.** Kling videoları geçmişte listelenmese de iş kimlikleri eski oturum kayıtlarında duruyordu ve `higgsfield generate get <id>` hâlâ sonuç adresini veriyor. 6 klip bulundu (1-iris-hazel, 2-iris-blue, 4-bosphorus, 5-galata, 6-transfer, 8-clinic); 3-iris-green Higgsfield'de başarısız olmuştu, 7-hotel'in kimliği hiçbir kayıtta yok. `build.py` bu altı klipten yeni, hızlı kurgulu bir film kuruyor; adresler `SOURCES` içinde, `python -E build.py fetch` indiriyor. 20 Kasım'daki fotoğraflı geçici sürüm (`stills.py`) kaldırıldı, git geçmişinde duruyor. |
 
 ### Hâlâ eksik: logo dosyaları (Higgsfield'den gelmiyordu)
 Bunlar size verilen logo dosyalarından `irisya-tools/brand.py` ile kesiliyordu; kaynakları (`irisya-tools/logo-src/irisya-logo-navy.webp`

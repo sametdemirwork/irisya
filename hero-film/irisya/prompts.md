@@ -3,18 +3,18 @@
 Model: **Kling 4.0** · mode text-to-video · **1080p** · **16:9** · **5 s** · 16.25 credits / clip
 Budget: 8 clips = 130 credits, hard cap 200 credits (retakes included).
 
-Raw downloads go to `raw/` with the file names below.
+Raw downloads go to `raw/` with the file names below (`python -E build.py fetch`).
 
-| File | Shot |
-|---|---|
-| `1-iris-hazel.mp4` | Iris brown → hazel |
-| `2-iris-blue.mp4` | Iris → ice blue |
-| `3-iris-green.mp4` | Eye opens on emerald green |
-| `4-bosphorus.mp4` | Bosphorus, blue hour, drone |
-| `5-galata.mp4` | Galata skyline, golden hour |
-| `6-transfer.mp4` | VIP transfer at private terminal |
-| `7-hotel.mp4` | Luxury hotel suite over the Bosphorus |
-| `8-clinic.mp4` | Ophthalmologist, slit-lamp exam |
+| File | Shot | Higgsfield job |
+|---|---|---|
+| `1-iris-hazel.mp4` | Iris brown → hazel | `c7df7204` |
+| `2-iris-blue.mp4` | Iris → ice blue | `5f2f5336` |
+| `3-iris-green.mp4` | Eye opens on emerald green | `b4f0a11c` failed, not in the film |
+| `4-bosphorus.mp4` | Bosphorus, blue hour, drone | `7282ca5e` |
+| `5-galata.mp4` | Galata skyline, golden hour | `0acc82d8` |
+| `6-transfer.mp4` | VIP transfer at private terminal (three shots: van, chauffeur, reflection) | `7081cd10` |
+| `7-hotel.mp4` | Luxury hotel suite over the Bosphorus | job id lost, not in the film |
+| `8-clinic.mp4` | Ophthalmologist, slit-lamp exam | `9a8cd3cf` (retake `5873ecf4` failed) |
 
 ---
 

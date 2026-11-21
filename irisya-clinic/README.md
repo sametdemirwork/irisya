@@ -36,7 +36,7 @@ Site, Pitch tarzı tasarım sistemine göre baştan yazıldı ve "yapay zekâ ya
 
 **Kaldırılan yapay zekâ izleri**
 - Hero'daki "prompt" kutusu (yazı yazan placeholder, "Examples" karıştırma düğmesi) yerine **cümle şeklinde bir form** ("My eyes are [dark brown] and I'd like [Hazel], flying in from [London].") → WhatsApp.
-- **Hero filmi** (16 sn döngü: göz, İstanbul, havalimanı karşılaması, otel, muayene) arka planda duruyor. İlk yenilemede kaldırılmıştı, aynı gün isteğe göre geri eklendi. Üzerinde lacivert bir perde var, beyaz sayfaya geçiş şehir listesinden başlıyor. Eski sürümdeki ışık patlamaları ve kayan parlamalar geri gelmedi; alt köşede sakin bir bölüm etiketi ("04 — 5-star hotel") ve duraklat düğmesi var.
+- **Hero filmi** (16 sn döngü: göz, İstanbul, havalimanı karşılaması, muayene, göz) arka planda duruyor. İlk yenilemede kaldırılmıştı, aynı gün isteğe göre geri eklendi. Üzerinde lacivert bir perde var, beyaz sayfaya geçiş şehir listesinden başlıyor; alt köşede bir bölüm etiketi ("03 — Airport pickup") ve duraklat düğmesi var. 21 Kasım 2026'da istek üzerine hızlı kurgulu, efektli sürüme geçildi (17 kesme, hız rampaları, zoom-blur, whip pan, ışık sızıntısı, flaş, RGB ayrışması, kısa montaj).
 - Paket bölümünde kendi kendine yazan "ajan" kutusu ve "Building your package" animasyonu yerine üç **örnek gezi** düğmesi (Londra / Dubai / Bükreş); kartlar, gün planı ve fiyat kartı seçilen geziye göre değişiyor.
 - Anlamsız sahte arayüzler (transfer için yükselen grafik, "Pg / Ring" çubuğu, merkezde logolu bağlantı şeması, yıldız ikonu) yerine gerçek bilgi taşıyan kartlar: kornea şeması, kendi fotoğrafınızda ton önizlemesi, havalimanı karşılama panosu, koordinatör yazışması, tedavi pasaportu, dört dilde selam, takip takvimi.
 - Metinler: "reimagined", "Welcome to a new era", "nothing falls through the cracks", "We'll handle the rest", "Ready when you are" gibi kalıplar ve uzun tireler kaldırıldı. "40+ countries" ve bayrak sıraları sayfada altı kez tekrarlanıyordu, sadeleştirildi. Ana başlık: **"Choose your eye colour."**
@@ -84,7 +84,7 @@ Her görsel alanı `assets/img/content/` içindeki bir dosyayı bekler. Dosya yo
 | `footer.webp` / `footer-portrait.webp` | 2400×1030 / 900×1125 | Kapanış bölümü arka planı |
 | `clinic.webp` | 600×375 | Footer'daki klinik kartı |
 | `og-image.jpg` | 1200×630 | Sosyal medya paylaşım görseli |
-| `hero.mp4/webm`, `hero-720.*`, `hero-portrait.*` | 1920×1080 / 1280×720 / 608×1080, 16 sn | Hero filmi: geniş ekran, dizüstü/tablet, telefon. Kaynak ve kurgu: `../hero-film/irisya/build.py`. 20 Kasım 2026'dan beri geçici sürüm: Kling klipleri kayıp olduğu için aynı kurgu Higgsfield fotoğraflarıyla (`stills.py`) kuruldu. |
+| `hero.mp4/webm`, `hero-720.*`, `hero-portrait.*` | 1920×1080 / 1280×720 / 608×1080, 16 sn | Hero filmi: geniş ekran, dizüstü/tablet, telefon. Kaynak ve kurgu: `../hero-film/irisya/build.py` (Higgsfield hesabındaki 6 Kling 4.0 klibi; `python -E build.py fetch` indirir). Yeniden üretince `index.html`'deki `data-v` ve poster `?v=` değerlerini artırın. |
 | `hero.webp`, `hero-portrait.webp` | 1920×1080 / 608×1080 | Film yüklenene kadar görünen kare (filmin 1. saniyesi) |
 | `hero-still.webp`, `hero-still-portrait.webp` | 1920×1080 / 608×1080 | "Hareketi azalt" açıkken görünen sabit kare |
 

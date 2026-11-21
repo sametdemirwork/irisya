@@ -24,7 +24,8 @@ Then open http://localhost:5510. On Windows you can double-click `siteyi-ac.bat`
 ## Media
 
 The project was restored from session history on 2026-11-20. Its photos were then rebuilt from the original
-Higgsfield generations (`irisya-tools/hf/sources.json`, `fetch.py`), and the edits and the hero film that the
-Higgsfield history no longer lists were redone locally (`irisya-tools/hf/recolour.py`, `hero-film/irisya/stills.py`).
+Higgsfield generations (`irisya-tools/hf/sources.json`, `fetch.py`), and the image edits that the Higgsfield
+history no longer lists were redone locally (`irisya-tools/hf/recolour.py`). The hero film is cut from six Kling 4.0
+clips still held in the Higgsfield account (`hero-film/irisya/build.py fetch`, then `build.py`).
 `KURTARMA-NOTU.md` has the details. Still missing: the logo files under `irisya-clinic/assets/img/brand/`, which come
 from the supplied logo artwork via `irisya-tools/brand.py`.

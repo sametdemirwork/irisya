@@ -102,12 +102,11 @@ ${big ? `<g font-family="Figtree, Arial, sans-serif" text-anchor="middle"><text 
     // chapter cuts of the edit in seconds (CUES in hero-film/irisya/build.py)
     const CUES = [
       [0, 'Laser eye colour change'],
-      [2.4, 'Istanbul'],
-      [5.2, 'Airport pickup'],
-      [7, '5-star hotel'],
-      [8.7, 'Your shade, planned'],
-      [10.5, 'Eye exam first'],
-      [12.4, 'Laser eye colour change'],
+      [1.75, 'Istanbul'],
+      [4.75, 'Airport pickup'],
+      [7.375, 'Eye exam first'],
+      [9.625, 'Your shade, planned'],
+      [13, 'Laser eye colour change'],
     ];
     const START_AT = 1; // hero.webp is this frame, so poster and film line up
     const toggle = $('#heroToggle');
@@ -130,7 +129,7 @@ ${big ? `<g font-family="Figtree, Arial, sans-serif" text-anchor="middle"><text 
       const exts = safari ? ['mp4'] : ['webm', 'mp4'];
       exts.forEach((ext, i) => {
         const s = document.createElement('source');
-        s.src = `${base}.${ext}`;
+        s.src = `${base}.${ext}${film.dataset.v ? `?v=${film.dataset.v}` : ''}`;
         s.type = ext === 'webm' ? 'video/webm; codecs="vp9"' : 'video/mp4';
         // no file at all: keep the poster and drop the button
         if (i === exts.length - 1) s.addEventListener('error', () => { available = false; toggle.hidden = true; });
